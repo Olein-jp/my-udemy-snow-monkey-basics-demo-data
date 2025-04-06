@@ -1,1 +1,1 @@
-# my-udemy-snow-monkey-basics-demo-data
+# いちばんやさしい Snow Monkey 基礎講座専用デモデータ
