@@ -4339,25 +4339,43 @@
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://snow-monkey-basics.local/?page_id=2</guid>
 		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p>This is an example page. It's different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this:</p>
-<!-- /wp:paragraph -->
+		<content:encoded><![CDATA[<!-- wp:code -->
+<pre class="wp-block-code"><code>理想の住まいを見つけよう
+地域密着の不動産パートナー
 
-<!-- wp:quote -->
-<blockquote class="wp-block-quote"><p>Hi there! I'm a bike messenger by day, aspiring actor by night, and this is my website. I live in Los Angeles, have a great dog named Jack, and I like pi&#241;a coladas. (And gettin' caught in the rain.)</p></blockquote>
-<!-- /wp:quote -->
+物件情報を見る
+お問い合わせ
 
-<!-- wp:paragraph -->
-<p>...or something like this:</p>
-<!-- /wp:paragraph -->
+---
 
-<!-- wp:quote -->
-<blockquote class="wp-block-quote"><p>The XYZ Doohickey Company was founded in 1971, and has been providing quality doohickeys to the public ever since. Located in Gotham City, XYZ employs over 2,000 people and does all kinds of awesome things for the Gotham community.</p></blockquote>
-<!-- /wp:quote -->
+お知らせ
 
-<!-- wp:paragraph -->
-<p>As a new WordPress user, you should go to <a href="http://snow-monkey-basics.local/wp-admin/">your dashboard</a> to delete this page and create new pages for your content. Have fun!</p>
-<!-- /wp:paragraph -->]]></content:encoded>
+---
+
+おすすめ物件
+
+---
+
+サービス案内
+
+- 不動産の購入サポート
+  - 物件探しのお手伝い
+  - 資金計画・住宅ローンのご相談
+- 不動産の売却サポート
+　- 無料査定と売却プランのご提案
+　- 売却後のサポート
+- リフォーム・リノベーション
+  - 理想の空間づくりをトータルプロデュース
+  - バリアフリーや省エネにも対応
+
+---
+
+お問い合わせバナー
+
+住まい探し・ご相談はこちらから
+
+---</code></pre>
+<!-- /wp:code -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>2</wp:post_id>
 		<wp:post_date><![CDATA[2025-03-31 23:16:42]]></wp:post_date>
@@ -4429,141 +4447,73 @@
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://snow-monkey-basics.local/?page_id=145</guid>
 		<description></description>
-		<content:encoded><![CDATA[<!-- wp:heading -->
-<h2 class="wp-block-heading">私たちについて</h2>
-<!-- /wp:heading -->
+		<content:encoded><![CDATA[<!-- wp:code -->
+<pre class="wp-block-code"><code>私たちについて
 
-<!-- wp:paragraph -->
-<p>当社は地域に根ざした不動産会社として、住まいを通じてお客様の暮らしに寄り添い続けてまいりました。<br>新築・中古物件のご紹介はもちろん、リノベーション、資金計画のご相談、アフターサポートまで一貫して対応しております。</p>
-<!-- /wp:paragraph -->
+当社は地域に根ざした不動産会社として、住まいを通じてお客様の暮らしに寄り添い続けてまいりました。
+新築・中古物件のご紹介はもちろん、リノベーション、資金計画のご相談、アフターサポートまで一貫して対応しております。
 
-<!-- wp:paragraph -->
-<p>「安心して暮らせる住まい」をご提供することが、私たちの使命です。</p>
-<!-- /wp:paragraph -->
+「安心して暮らせる住まい」をご提供することが、私たちの使命です。
 
-<!-- wp:heading -->
-<h2 class="wp-block-heading">事業内容</h2>
-<!-- /wp:heading -->
+---
 
-<!-- wp:heading {"level":3} -->
-<h3 class="wp-block-heading">不動産売買</h3>
-<!-- /wp:heading -->
+事業内容
 
-<!-- wp:image {"id":117,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-post-thumbnail-21-1024x796.jpg" alt="" class="wp-image-117"/></figure>
-<!-- /wp:image -->
+## 不動産売買
 
-<!-- wp:list -->
-<ul class="wp-block-list"><!-- wp:list-item -->
-<li>新築・中古戸建てのご紹介</li>
-<!-- /wp:list-item -->
+snow-monkey-basics-post-thumbnail-21.jpg
 
-<!-- wp:list-item -->
-<li>分譲マンションの仲介</li>
-<!-- /wp:list-item -->
+- 新築・中古戸建てのご紹介
+- 分譲マンションの仲介
+- 土地の購入・活用提案
 
-<!-- wp:list-item -->
-<li>土地の購入・活用提案</li>
-<!-- /wp:list-item --></ul>
-<!-- /wp:list -->
+## 不動産売却サポート
 
-<!-- wp:heading {"level":3} -->
-<h3 class="wp-block-heading">不動産売却サポート</h3>
-<!-- /wp:heading -->
+snow-monkey-basics-post-thumbnail-04.jpg
 
-<!-- wp:image {"id":100,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-post-thumbnail-04-1024x796.jpg" alt="" class="wp-image-100"/></figure>
-<!-- /wp:image -->
+- 無料査定
+- 売却戦略のご提案
+- 税務・法律相談の連携
 
-<!-- wp:list -->
-<ul class="wp-block-list"><!-- wp:list-item -->
-<li>無料査定</li>
-<!-- /wp:list-item -->
+## リフォーム・リノベーション
 
-<!-- wp:list-item -->
-<li>売却戦略のご提案</li>
-<!-- /wp:list-item -->
+snow-monkey-basics-post-thumbnail-13.jpg
 
-<!-- wp:list-item -->
-<li>税務・法律相談の連携</li>
-<!-- /wp:list-item --></ul>
-<!-- /wp:list -->
+- 部分リフォームからフルリノベまで対応
+- バリアフリー対応や省エネ改修も可能
 
-<!-- wp:heading {"level":3} -->
-<h3 class="wp-block-heading">リフォーム・リノベーション</h3>
-<!-- /wp:heading -->
+サービス案内を詳しく見る
 
-<!-- wp:image {"id":109,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-post-thumbnail-13-1024x796.jpg" alt="" class="wp-image-109"/></figure>
-<!-- /wp:image -->
+---
 
-<!-- wp:list -->
-<ul class="wp-block-list"><!-- wp:list-item -->
-<li>部分リフォームからフルリノベまで対応</li>
-<!-- /wp:list-item -->
+会社概要
 
-<!-- wp:list-item -->
-<li>バリアフリー対応や省エネ改修も可能</li>
-<!-- /wp:list-item --></ul>
-<!-- /wp:list -->
+&lt;!-- wp:table -->
+&lt;figure class="wp-block-table">&lt;table class="has-fixed-layout">&lt;thead>&lt;tr>&lt;th>項目&lt;/th>&lt;th>内容&lt;/th>&lt;/tr>&lt;/thead>&lt;tbody>&lt;tr>&lt;td>会社名&lt;/td>&lt;td>株式会社野猿不動産&lt;/td>&lt;/tr>&lt;tr>&lt;td>所在地&lt;/td>&lt;td>東京都新宿区西新宿２丁目８−１&lt;/td>&lt;/tr>&lt;tr>&lt;td>設立&lt;/td>&lt;td>2010年4月&lt;/td>&lt;/tr>&lt;tr>&lt;td>代表者&lt;/td>&lt;td>山田 太郎&lt;/td>&lt;/tr>&lt;tr>&lt;td>免許番号&lt;/td>&lt;td>東京都知事（2）第123456号&lt;/td>&lt;/tr>&lt;/tbody>&lt;/table>&lt;/figure>
+&lt;!-- /wp:table -->
 
-<!-- wp:snow-monkey-blocks/buttons -->
-<div class="wp-block-snow-monkey-blocks-buttons smb-buttons"><!-- wp:snow-monkey-blocks/btn -->
-<div class="wp-block-snow-monkey-blocks-btn smb-btn-wrapper"><a class="smb-btn"><span class="smb-btn__label">サービス案内を詳しく見る</span></a></div>
-<!-- /wp:snow-monkey-blocks/btn --></div>
-<!-- /wp:snow-monkey-blocks/buttons -->
+---
 
-<!-- wp:heading -->
-<h2 class="wp-block-heading">会社概要</h2>
-<!-- /wp:heading -->
+アクセス
 
-<!-- wp:table -->
-<figure class="wp-block-table"><table class="has-fixed-layout"><thead><tr><th>項目</th><th>内容</th></tr></thead><tbody><tr><td>会社名</td><td>株式会社野猿不動産</td></tr><tr><td>所在地</td><td>東京都新宿区西新宿２丁目８−１</td></tr><tr><td>設立</td><td>2010年4月</td></tr><tr><td>代表者</td><td>山田 太郎</td></tr><tr><td>免許番号</td><td>東京都知事（2）第123456号</td></tr></tbody></table></figure>
-<!-- /wp:table -->
+東京都新宿区西新宿２丁目８−１
 
-<!-- wp:heading -->
-<h2 class="wp-block-heading">アクセス</h2>
-<!-- /wp:heading -->
+- 「JR新宿駅」（西口から徒歩約10分）
+- 都営地下鉄大江戸線「都庁前駅」
+- 新宿駅西口（地下バスのりば）から都営バス（都庁循環）
+「都庁第一本庁舎」、「都庁第二本庁舎」、「都議会議事堂」下車
+- JR新宿駅西改札「新宿駅西口」バス停から「西参道方面」行きの新宿WEバス乗車、「新宿ワシントンホテル前」下車
 
-<!-- wp:paragraph -->
-<p>東京都新宿区西新宿２丁目８−１</p>
-<!-- /wp:paragraph -->
+&lt;iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1620.2465660580071!2d139.68930449839476!3d35.68948070000001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60188cd4b71a37a1%3A0xf1665c37f38661e8!2z5p2x5Lqs6YO95bqB!5e0!3m2!1sja!2sjp!4v1743502328536!5m2!1sja!2sjp" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade">&lt;/iframe>
 
-<!-- wp:list -->
-<ul class="wp-block-list"><!-- wp:list-item -->
-<li>「JR新宿駅」（西口から徒歩約10分）</li>
-<!-- /wp:list-item -->
+---
 
-<!-- wp:list-item -->
-<li>都営地下鉄大江戸線「都庁前駅」</li>
-<!-- /wp:list-item -->
+お問い合わせ
 
-<!-- wp:list-item -->
-<li>新宿駅西口（地下バスのりば）から都営バス（都庁循環）<br>「都庁第一本庁舎」、「都庁第二本庁舎」、「都議会議事堂」下車</li>
-<!-- /wp:list-item -->
+ご不明点やご相談などありましたら、お気軽にお問い合わせください。
 
-<!-- wp:list-item -->
-<li>JR新宿駅西改札「新宿駅西口」バス停から「西参道方面」行きの新宿WEバス乗車、「新宿ワシントンホテル前」下車</li>
-<!-- /wp:list-item --></ul>
-<!-- /wp:list -->
-
-<!-- wp:html -->
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1620.2465660580071!2d139.68930449839476!3d35.68948070000001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60188cd4b71a37a1%3A0xf1665c37f38661e8!2z5p2x5Lqs6YO95bqB!5e0!3m2!1sja!2sjp!4v1743502328536!5m2!1sja!2sjp" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<!-- /wp:html -->
-
-<!-- wp:heading -->
-<h2 class="wp-block-heading">お問い合わせ</h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>ご不明点やご相談などありましたら、お気軽にお問い合わせください。</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:snow-monkey-blocks/buttons -->
-<div class="wp-block-snow-monkey-blocks-buttons smb-buttons"><!-- wp:snow-monkey-blocks/btn -->
-<div class="wp-block-snow-monkey-blocks-btn smb-btn-wrapper"><a class="smb-btn"><span class="smb-btn__label">お問い合わせ</span></a></div>
-<!-- /wp:snow-monkey-blocks/btn --></div>
-<!-- /wp:snow-monkey-blocks/buttons -->]]></content:encoded>
+お問い合わせ</code></pre>
+<!-- /wp:code -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>145</wp:post_id>
 		<wp:post_date><![CDATA[2025-04-01 16:19:20]]></wp:post_date>
@@ -4595,45 +4545,39 @@
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://snow-monkey-basics.local/?page_id=147</guid>
 		<description></description>
-		<content:encoded><![CDATA[<!-- wp:image {"id":171,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-page-thumbnail-greeting-portfolio.jpg" alt="" class="wp-image-171"/></figure>
-<!-- /wp:image -->
+		<content:encoded><![CDATA[<!-- wp:code -->
+<pre class="wp-block-code"><code>snow-monkey-basics-page-thumbnail-greeting-portfolio.jpg
 
-<!-- wp:paragraph -->
-<p>代表取締役<br>山田 太郎</p>
-<!-- /wp:paragraph -->
+代表取締役
+山田 太郎
 
-<!-- wp:heading -->
-<h2 class="wp-block-heading">住まいは、人生を支える「土台」です。</h2>
-<!-- /wp:heading -->
+---
 
-<!-- wp:paragraph -->
-<p>こんにちは、野猿不動産の代表・山田 太郎です。</p>
-<!-- /wp:paragraph -->
+住まいは、人生を支える「土台」です。
 
-<!-- wp:paragraph -->
-<p>私たちは、「住まい」を通じてお客様の人生に寄り添い、<br>安心と快適をお届けすることを使命と考えています。</p>
-<!-- /wp:paragraph -->
+こんにちは、野猿不動産の代表・山田 太郎です。
 
-<!-- wp:paragraph -->
-<p>マイホームの購入、住み替え、売却、リフォーム…。<br>お客様の状況やご希望は一人ひとり異なります。<br>だからこそ、私たちは“対話”を何よりも大切にしています。</p>
-<!-- /wp:paragraph -->
+私たちは、「住まい」を通じてお客様の人生に寄り添い、
+安心と快適をお届けすることを使命と考えています。
 
-<!-- wp:heading -->
-<h2 class="wp-block-heading">地域に根ざし、信頼に応えるパートナーでありたい</h2>
-<!-- /wp:heading -->
+マイホームの購入、住み替え、売却、リフォーム…。
+お客様の状況やご希望は一人ひとり異なります。
+だからこそ、私たちは“対話”を何よりも大切にしています。
 
-<!-- wp:paragraph -->
-<p>〇〇区を中心に地域密着型のサービスを展開し、<br>土地勘とネットワークを活かしたご提案ができることが、私たちの強みです。</p>
-<!-- /wp:paragraph -->
+---
 
-<!-- wp:paragraph -->
-<p>不動産という大きな選択において、<br>「この会社に任せてよかった」と思っていただけるよう、<br>これからも誠実で丁寧な対応を心がけてまいります。</p>
-<!-- /wp:paragraph -->
+地域に根ざし、信頼に応えるパートナーでありたい
 
-<!-- wp:paragraph -->
-<p>どんな些細なことでも、まずはお気軽にご相談ください。<br>皆さまとの出会いを、心よりお待ちしております。</p>
-<!-- /wp:paragraph -->]]></content:encoded>
+〇〇区を中心に地域密着型のサービスを展開し、
+土地勘とネットワークを活かしたご提案ができることが、私たちの強みです。
+
+不動産という大きな選択において、
+「この会社に任せてよかった」と思っていただけるよう、
+これからも誠実で丁寧な対応を心がけてまいります。
+
+どんな些細なことでも、まずはお気軽にご相談ください。
+皆さまとの出会いを、心よりお待ちしております。</code></pre>
+<!-- /wp:code -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>147</wp:post_id>
 		<wp:post_date><![CDATA[2025-04-01 16:19:39]]></wp:post_date>
@@ -4661,97 +4605,52 @@
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://snow-monkey-basics.local/?page_id=149</guid>
 		<description></description>
-		<content:encoded><![CDATA[<!-- wp:heading -->
-<h2 class="wp-block-heading">私たちが、お客様の住まい探しをサポートします</h2>
-<!-- /wp:heading -->
+		<content:encoded><![CDATA[<!-- wp:code -->
+<pre class="wp-block-code"><code>私たちが、お客様の住まい探しをサポートします
 
-<!-- wp:paragraph -->
-<p>〇〇不動産では、経験豊富で親しみやすいスタッフが在籍しています。<br>住まいに関することなら、どんなことでもお気軽にご相談ください。</p>
-<!-- /wp:paragraph -->
+〇〇不動産では、経験豊富で親しみやすいスタッフが在籍しています。
+住まいに関することなら、どんなことでもお気軽にご相談ください。
 
-<!-- wp:separator -->
-<hr class="wp-block-separator has-alpha-channel-opacity"/>
-<!-- /wp:separator -->
+---
 
-<!-- wp:heading -->
-<h2 class="wp-block-heading">スタッフ一覧</h2>
-<!-- /wp:heading -->
+スタッフ一覧
 
-<!-- wp:heading {"level":3} -->
-<h3 class="wp-block-heading">山本 恵子（やまもと けいこ）｜営業マネージャー</h3>
-<!-- /wp:heading -->
+山本 恵子（やまもと けいこ）｜営業マネージャー
 
-<!-- wp:image {"id":174,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-page-thumbnail-staff-01-1024x796.jpg" alt="" class="wp-image-174"/></figure>
-<!-- /wp:image -->
+snow-monkey-basics-page-thumbnail-staff-01.jpg
 
-<!-- wp:paragraph -->
-<p>明るく丁寧な対応がモットーの営業マネージャー。<br>住宅ローンや資金計画のご相談にも多くの実績があり、「頼りになる」と評判です。</p>
-<!-- /wp:paragraph -->
+明るく丁寧な対応がモットーの営業マネージャー。
+住宅ローンや資金計画のご相談にも多くの実績があり、「頼りになる」と評判です。
 
-<!-- wp:paragraph -->
-<p>「長く安心して暮らせるお住まい」を一緒に見つけましょう！</p>
-<!-- /wp:paragraph -->
+「長く安心して暮らせるお住まい」を一緒に見つけましょう！
 
-<!-- wp:separator -->
-<hr class="wp-block-separator has-alpha-channel-opacity"/>
-<!-- /wp:separator -->
+鈴木 大地（すずき だいち）｜売買アドバイザー
 
-<!-- wp:heading {"level":3} -->
-<h3 class="wp-block-heading">鈴木 大地（すずき だいち）｜売買アドバイザー</h3>
-<!-- /wp:heading -->
+snow-monkey-basics-page-thumbnail-staff-02.jpg
 
-<!-- wp:image {"id":175,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-page-thumbnail-staff-02-1024x796.jpg" alt="" class="wp-image-175"/></figure>
-<!-- /wp:image -->
+お客様の目線に立った物件提案が得意なアドバイザー。
+「どんな家が本当に合っているのか」をじっくりヒアリングしてご提案します。
 
-<!-- wp:paragraph -->
-<p>お客様の目線に立った物件提案が得意なアドバイザー。<br>「どんな家が本当に合っているのか」をじっくりヒアリングしてご提案します。</p>
-<!-- /wp:paragraph -->
+休日は地元のグルメ開拓が趣味で、おすすめのお店情報も豊富です！
 
-<!-- wp:paragraph -->
-<p>休日は地元のグルメ開拓が趣味で、おすすめのお店情報も豊富です！</p>
-<!-- /wp:paragraph -->
+佐藤 麻美（さとう あさみ）｜カスタマーサポート
 
-<!-- wp:separator -->
-<hr class="wp-block-separator has-alpha-channel-opacity"/>
-<!-- /wp:separator -->
+snow-monkey-basics-page-thumbnail-staff-03.jpg
 
-<!-- wp:heading {"level":3} -->
-<h3 class="wp-block-heading">佐藤 麻美（さとう あさみ）｜カスタマーサポート</h3>
-<!-- /wp:heading -->
+お問い合わせやアフターフォローを担当するサポート担当。
+安心してご相談いただけるよう、きめ細かな対応を心がけています。
 
-<!-- wp:image {"id":176,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-page-thumbnail-staff-03-1024x796.jpg" alt="" class="wp-image-176"/></figure>
-<!-- /wp:image -->
+「ちょっとしたことでも遠慮なく聞ける」そんな存在でありたいと思っています。
 
-<!-- wp:paragraph -->
-<p>お問い合わせやアフターフォローを担当するサポート担当。<br>安心してご相談いただけるよう、きめ細かな対応を心がけています。</p>
-<!-- /wp:paragraph -->
+中村 健太（なかむら けんた）｜リノベーションプランナー
 
-<!-- wp:paragraph -->
-<p>「ちょっとしたことでも遠慮なく聞ける」そんな存在でありたいと思っています。</p>
-<!-- /wp:paragraph -->
+snow-monkey-basics-page-thumbnail-staff-04.jpg
 
-<!-- wp:separator -->
-<hr class="wp-block-separator has-alpha-channel-opacity"/>
-<!-- /wp:separator -->
+中古物件＋リノベーションのご提案が得意なプランナー。
+建築の知識も豊富で、理想の間取りやデザインの実現をお手伝いします。
 
-<!-- wp:heading {"level":3} -->
-<h3 class="wp-block-heading">中村 健太（なかむら けんた）｜リノベーションプランナー</h3>
-<!-- /wp:heading -->
-
-<!-- wp:image {"id":177,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-page-thumbnail-staff-04-1024x796.jpg" alt="" class="wp-image-177"/></figure>
-<!-- /wp:image -->
-
-<!-- wp:paragraph -->
-<p>中古物件＋リノベーションのご提案が得意なプランナー。<br>建築の知識も豊富で、理想の間取りやデザインの実現をお手伝いします。</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>「“住みたい”をカタチにする」をモットーに、柔軟にサポートいたします。</p>
-<!-- /wp:paragraph -->]]></content:encoded>
+「“住みたい”をカタチにする」をモットーに、柔軟にサポートいたします。</code></pre>
+<!-- /wp:code -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>149</wp:post_id>
 		<wp:post_date><![CDATA[2025-04-01 16:20:00]]></wp:post_date>
@@ -4779,129 +4678,81 @@
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://snow-monkey-basics.local/?page_id=151</guid>
 		<description></description>
-		<content:encoded><![CDATA[<!-- wp:heading -->
-<h2 class="wp-block-heading">あなたの暮らしに寄り添う、不動産サービスを</h2>
-<!-- /wp:heading -->
+		<content:encoded><![CDATA[<!-- wp:code -->
+<pre class="wp-block-code"><code>あなたの暮らしに寄り添う、不動産サービスを
 
-<!-- wp:paragraph -->
-<p>野猿不動産では、住まいに関するあらゆるシーンでお客様をサポートしています。<br>購入・売却からリフォームまで、ワンストップでご相談いただけます。</p>
-<!-- /wp:paragraph -->
+野猿不動産では、住まいに関するあらゆるシーンでお客様をサポートしています。
+購入・売却からリフォームまで、ワンストップでご相談いただけます。
 
-<!-- wp:heading -->
-<h2 class="wp-block-heading">不動産の購入サポート</h2>
-<!-- /wp:heading -->
+---
 
-<!-- wp:heading {"level":3} -->
-<h3 class="wp-block-heading">物件探しのお手伝い</h3>
-<!-- /wp:heading -->
+不動産の購入サポート
 
-<!-- wp:image {"id":186,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-service-01-1024x796.jpg" alt="" class="wp-image-186"/></figure>
-<!-- /wp:image -->
+## 物件探しのお手伝い
 
-<!-- wp:paragraph -->
-<p>希望条件やご予算を丁寧にヒアリングし、ぴったりの物件をご提案します。<br>周辺環境や将来的な資産価値なども踏まえ、安心できる住まい探しをサポートします。</p>
-<!-- /wp:paragraph -->
+snow-monkey-basics-service-01.jpg
 
-<!-- wp:snow-monkey-blocks/buttons -->
-<div class="wp-block-snow-monkey-blocks-buttons smb-buttons"><!-- wp:snow-monkey-blocks/btn -->
-<div class="wp-block-snow-monkey-blocks-btn smb-btn-wrapper"><a class="smb-btn"><span class="smb-btn__label">詳しく見る</span></a></div>
-<!-- /wp:snow-monkey-blocks/btn --></div>
-<!-- /wp:snow-monkey-blocks/buttons -->
+希望条件やご予算を丁寧にヒアリングし、ぴったりの物件をご提案します。
+周辺環境や将来的な資産価値なども踏まえ、安心できる住まい探しをサポートします。
 
-<!-- wp:heading {"level":3} -->
-<h3 class="wp-block-heading">資金計画・住宅ローンのご相談</h3>
-<!-- /wp:heading -->
+詳しく見る
 
-<!-- wp:image {"id":187,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-service-02-1024x796.jpg" alt="" class="wp-image-187"/></figure>
-<!-- /wp:image -->
+## 資金計画・住宅ローンのご相談
 
-<!-- wp:paragraph -->
-<p>初めての住宅ローンでも安心できるよう、<br>金融機関との連携を含めて、シミュレーションや手続きをしっかりサポートします。</p>
-<!-- /wp:paragraph -->
+snow-monkey-basics-service-02.jpg
 
-<!-- wp:snow-monkey-blocks/buttons -->
-<div class="wp-block-snow-monkey-blocks-buttons smb-buttons"><!-- wp:snow-monkey-blocks/btn -->
-<div class="wp-block-snow-monkey-blocks-btn smb-btn-wrapper"><a class="smb-btn"><span class="smb-btn__label">資金計画に関する記事を見る</span></a></div>
-<!-- /wp:snow-monkey-blocks/btn --></div>
-<!-- /wp:snow-monkey-blocks/buttons -->
+初めての住宅ローンでも安心できるよう、
+金融機関との連携を含めて、シミュレーションや手続きをしっかりサポートします。
 
-<!-- wp:heading -->
-<h2 class="wp-block-heading">不動産の売却サポート</h2>
-<!-- /wp:heading -->
+資金計画に関する記事を見る
 
-<!-- wp:heading {"level":3} -->
-<h3 class="wp-block-heading">無料査定と売却プランのご提案</h3>
-<!-- /wp:heading -->
+---
 
-<!-- wp:image {"id":188,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-service-03-1024x796.jpg" alt="" class="wp-image-188"/></figure>
-<!-- /wp:image -->
+不動産の売却サポート
 
-<!-- wp:paragraph -->
-<p>お住まいの価値を正確に把握し、地域相場と照らし合わせて最適な売却プランをご提案します。<br>秘密厳守・無料で対応いたします。</p>
-<!-- /wp:paragraph -->
+## 無料査定と売却プランのご提案
 
-<!-- wp:heading {"level":3} -->
-<h3 class="wp-block-heading">売却後のサポートも安心</h3>
-<!-- /wp:heading -->
+snow-monkey-basics-service-03.jpg
 
-<!-- wp:image {"id":189,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-service-04-1024x796.jpg" alt="" class="wp-image-189"/></figure>
-<!-- /wp:image -->
+お住まいの価値を正確に把握し、地域相場と照らし合わせて最適な売却プランをご提案します。
+秘密厳守・無料で対応いたします。
 
-<!-- wp:paragraph -->
-<p>契約後のお手続きや引き渡し、必要に応じて税務相談など、<br>売却が終わった後も責任を持ってしっかりサポートします。</p>
-<!-- /wp:paragraph -->
+## 売却後のサポートも安心
 
-<!-- wp:heading -->
-<h2 class="wp-block-heading">リフォーム・リノベーション</h2>
-<!-- /wp:heading -->
+snow-monkey-basics-service-04.jpg
 
-<!-- wp:heading {"level":3} -->
-<h3 class="wp-block-heading">理想の空間づくりをトータルプロデュース</h3>
-<!-- /wp:heading -->
+契約後のお手続きや引き渡し、必要に応じて税務相談など、
+売却が終わった後も責任を持ってしっかりサポートします。
 
-<!-- wp:image {"id":190,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-service-05-1024x796.jpg" alt="" class="wp-image-190"/></figure>
-<!-- /wp:image -->
+---
 
-<!-- wp:paragraph -->
-<p>中古物件のリノベーションやご自宅のリフォームもお任せください。<br>専属のプランナーが、デザイン・機能・予算のバランスを見ながらご提案いたします。</p>
-<!-- /wp:paragraph -->
+リフォーム・リノベーション
 
-<!-- wp:heading {"level":3} -->
-<h3 class="wp-block-heading">バリアフリーや省エネにも対応</h3>
-<!-- /wp:heading -->
+## 理想の空間づくりをトータルプロデュース
 
-<!-- wp:image {"id":191,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-service-06-1024x796.jpg" alt="" class="wp-image-191"/></figure>
-<!-- /wp:image -->
+snow-monkey-basics-service-05.jpg
 
-<!-- wp:paragraph -->
-<p>将来を見据えたバリアフリー改修や、断熱・省エネリフォームなど、<br>暮らしの快適性とコストパフォーマンスを高めるご提案が可能です。</p>
-<!-- /wp:paragraph -->
+中古物件のリノベーションやご自宅のリフォームもお任せください。
+専属のプランナーが、デザイン・機能・予算のバランスを見ながらご提案いたします。
 
-<!-- wp:snow-monkey-blocks/buttons -->
-<div class="wp-block-snow-monkey-blocks-buttons smb-buttons"><!-- wp:snow-monkey-blocks/btn -->
-<div class="wp-block-snow-monkey-blocks-btn smb-btn-wrapper"><a class="smb-btn"><span class="smb-btn__label">施工事例を見る</span></a></div>
-<!-- /wp:snow-monkey-blocks/btn --></div>
-<!-- /wp:snow-monkey-blocks/buttons -->
+## バリアフリーや省エネにも対応
 
-<!-- wp:heading -->
-<h2 class="wp-block-heading">ご相談はいつでもお気軽に</h2>
-<!-- /wp:heading -->
+snow-monkey-basics-service-06.jpg
 
-<!-- wp:paragraph -->
-<p>どんな些細なことでも、お客様のライフスタイルや将来設計を考えながら、<br>私たちが全力でサポートいたします。</p>
-<!-- /wp:paragraph -->
+将来を見据えたバリアフリー改修や、断熱・省エネリフォームなど、
+暮らしの快適性とコストパフォーマンスを高めるご提案が可能です。
 
-<!-- wp:snow-monkey-blocks/buttons -->
-<div class="wp-block-snow-monkey-blocks-buttons smb-buttons"><!-- wp:snow-monkey-blocks/btn -->
-<div class="wp-block-snow-monkey-blocks-btn smb-btn-wrapper"><a class="smb-btn"><span class="smb-btn__label">お問い合わせはこちらから</span></a></div>
-<!-- /wp:snow-monkey-blocks/btn --></div>
-<!-- /wp:snow-monkey-blocks/buttons -->]]></content:encoded>
+施工事例を見る
+
+---
+
+ご相談はいつでもお気軽に
+
+どんな些細なことでも、お客様のライフスタイルや将来設計を考えながら、
+私たちが全力でサポートいたします。
+
+お問い合わせはこちらから</code></pre>
+<!-- /wp:code -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>151</wp:post_id>
 		<wp:post_date><![CDATA[2025-04-01 16:20:20]]></wp:post_date>
@@ -9114,59 +8965,38 @@
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://snow-monkey-basics.local/?page_id=153</guid>
 		<description></description>
-		<content:encoded><![CDATA[<!-- wp:heading -->
-<h2 class="wp-block-heading">ご相談・ご質問はお気軽にどうぞ</h2>
-<!-- /wp:heading -->
+		<content:encoded><![CDATA[<!-- wp:code -->
+<pre class="wp-block-code"><code>---
 
-<!-- wp:paragraph -->
-<p>物件についてのご相談、ご売却のご依頼、資金計画に関するご質問など、<br>住まいに関することならどんなことでもお気軽にお問い合わせください。</p>
-<!-- /wp:paragraph -->
+ご相談・ご質問はお気軽にどうぞ
 
-<!-- wp:paragraph -->
-<p>以下のようなお問い合わせを多く頂いております。</p>
-<!-- /wp:paragraph -->
+物件についてのご相談、ご売却のご依頼、資金計画に関するご質問など、
+住まいに関することならどんなことでもお気軽にお問い合わせください。
 
-<!-- wp:list -->
-<ul class="wp-block-list"><!-- wp:list-item -->
-<li>現在掲載中の物件について詳しく知りたい</li>
-<!-- /wp:list-item -->
+以下のようなお問い合わせを多く頂いております。
 
-<!-- wp:list-item -->
-<li>購入と売却、どちらも相談したい</li>
-<!-- /wp:list-item -->
+- 現在掲載中の物件について詳しく知りたい
+- 購入と売却、どちらも相談したい
+- 住宅ローンの流れや借り入れ可能額を教えてほしい
+- リノベーションの費用感を知りたい
+- 査定だけでも可能か確認したい
 
-<!-- wp:list-item -->
-<li>住宅ローンの流れや借り入れ可能額を教えてほしい</li>
-<!-- /wp:list-item -->
+---
 
-<!-- wp:list-item -->
-<li>リノベーションの費用感を知りたい</li>
-<!-- /wp:list-item -->
+お電話でのお問い合わせ
 
-<!-- wp:list-item -->
-<li>査定だけでも可能か確認したい</li>
-<!-- /wp:list-item --></ul>
-<!-- /wp:list -->
+📞 03-1234-5678
+（受付時間：平日 10:00～18:00）
 
-<!-- wp:heading -->
-<h2 class="wp-block-heading">お電話でのお問い合わせ</h2>
-<!-- /wp:heading -->
+---
 
-<!-- wp:paragraph -->
-<p>📞 <strong>03-1234-5678</strong><br>（受付時間：平日 10:00～18:00）</p>
-<!-- /wp:paragraph -->
+メールでのお問い合わせ
 
-<!-- wp:heading -->
-<h2 class="wp-block-heading">メールでのお問い合わせ</h2>
-<!-- /wp:heading -->
+以下のフォームにご記入のうえ、送信してください。
+担当者より2営業日以内にご連絡いたします。
 
-<!-- wp:paragraph -->
-<p>以下のフォームにご記入のうえ、送信してください。<br>担当者より2営業日以内にご連絡いたします。</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>【ここにフォームを設置】</p>
-<!-- /wp:paragraph -->]]></content:encoded>
+【ここにフォームを設置】</code></pre>
+<!-- /wp:code -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>153</wp:post_id>
 		<wp:post_date><![CDATA[2025-04-01 16:20:31]]></wp:post_date>
