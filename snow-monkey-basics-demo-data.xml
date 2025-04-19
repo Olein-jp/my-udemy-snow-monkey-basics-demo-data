@@ -4481,6 +4481,7 @@ PROPERTY
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:code -->
 <pre class="wp-block-code"><code>私たちについて
+About us
 
 当社は地域に根ざした不動産会社として、住まいを通じてお客様の暮らしに寄り添い続けてまいりました。
 新築・中古物件のご紹介はもちろん、リノベーション、資金計画のご相談、アフターサポートまで一貫して対応しております。
@@ -4490,35 +4491,37 @@ PROPERTY
 ---
 
 事業内容
+Service
 
 ## 不動産売買
 
 snow-monkey-basics-post-thumbnail-21.jpg
 
-- 新築・中古戸建てのご紹介
-- 分譲マンションの仲介
-- 土地の購入・活用提案
+新築・中古戸建てのご紹介
+分譲マンションの仲介
+土地の購入・活用提案
 
 ## 不動産売却サポート
 
 snow-monkey-basics-post-thumbnail-04.jpg
 
-- 無料査定
-- 売却戦略のご提案
-- 税務・法律相談の連携
+無料査定
+売却戦略のご提案
+税務・法律相談の連携
 
 ## リフォーム・リノベーション
 
 snow-monkey-basics-post-thumbnail-13.jpg
 
-- 部分リフォームからフルリノベまで対応
-- バリアフリー対応や省エネ改修も可能
+部分リフォームからフルリノベまで対応
+バリアフリー対応や省エネ改修も可能
 
 サービス案内を詳しく見る
 
 ---
 
 会社概要
+Company profile
 
 &lt;!-- wp:table -->
 &lt;figure class="wp-block-table">&lt;table class="has-fixed-layout">&lt;thead>&lt;tr>&lt;th>項目&lt;/th>&lt;th>内容&lt;/th>&lt;/tr>&lt;/thead>&lt;tbody>&lt;tr>&lt;td>会社名&lt;/td>&lt;td>株式会社野猿不動産&lt;/td>&lt;/tr>&lt;tr>&lt;td>所在地&lt;/td>&lt;td>東京都新宿区西新宿２丁目８−１&lt;/td>&lt;/tr>&lt;tr>&lt;td>設立&lt;/td>&lt;td>2010年4月&lt;/td>&lt;/tr>&lt;tr>&lt;td>代表者&lt;/td>&lt;td>山田 太郎&lt;/td>&lt;/tr>&lt;tr>&lt;td>免許番号&lt;/td>&lt;td>東京都知事（2）第123456号&lt;/td>&lt;/tr>&lt;/tbody>&lt;/table>&lt;/figure>
@@ -4528,6 +4531,8 @@ snow-monkey-basics-post-thumbnail-13.jpg
 
 アクセス
 
+&lt;iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1620.2465660580071!2d139.68930449839476!3d35.68948070000001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60188cd4b71a37a1%3A0xf1665c37f38661e8!2z5p2x5Lqs6YO95bqB!5e0!3m2!1sja!2sjp!4v1743502328536!5m2!1sja!2sjp" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade">&lt;/iframe>
+
 東京都新宿区西新宿２丁目８−１
 
 - 「JR新宿駅」（西口から徒歩約10分）
@@ -4536,15 +4541,14 @@ snow-monkey-basics-post-thumbnail-13.jpg
 「都庁第一本庁舎」、「都庁第二本庁舎」、「都議会議事堂」下車
 - JR新宿駅西改札「新宿駅西口」バス停から「西参道方面」行きの新宿WEバス乗車、「新宿ワシントンホテル前」下車
 
-&lt;iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1620.2465660580071!2d139.68930449839476!3d35.68948070000001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60188cd4b71a37a1%3A0xf1665c37f38661e8!2z5p2x5Lqs6YO95bqB!5e0!3m2!1sja!2sjp!4v1743502328536!5m2!1sja!2sjp" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade">&lt;/iframe>
-
 ---
 
-お問い合わせ
+ご相談はいつでもお気軽に
 
-ご不明点やご相談などありましたら、お気軽にお問い合わせください。
+どんな些細なことでも、お客様のライフスタイルや将来設計を考えながら、
+私たちが全力でサポートいたします。
 
-お問い合わせ</code></pre>
+お問い合わせはこちらから</code></pre>
 <!-- /wp:code -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>145</wp:post_id>
