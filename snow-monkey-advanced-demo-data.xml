@@ -472,7 +472,7 @@
 	<generator>https://wordpress.org/?v=6.8.1</generator>
 
 <image>
-	<url>https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/cropped-site-icon-32x32.png</url>
+	<url>https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/cropped-site-icon-32x32.png</url>
 	<title>野猿不動産</title>
 	<link>http://snow-monkey-advanced-test.local</link>
 	<width>32</width>
@@ -484,7 +484,7 @@
 		<link>http://snow-monkey-advanced-test.local/%e5%88%9d%e3%82%81%e3%81%a6%e3%81%ae%e4%b8%8d%e5%8b%95%e7%94%a3%e8%b3%bc%e5%85%a5%e3%81%a7%e6%8a%bc%e3%81%95%e3%81%88%e3%81%a6%e3%81%8a%e3%81%8d%e3%81%9f%e3%81%84%e3%83%9d%e3%82%a4%e3%83%b3%e3%83%885/snow-monkey-basics-post-thumbnail-01/</link>
 		<pubDate>Tue, 01 Apr 2025 06:59:40 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-post-thumbnail-01.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/snow-monkey-basics-post-thumbnail-01.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -502,7 +502,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-post-thumbnail-01.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/snow-monkey-basics-post-thumbnail-01.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/04/snow-monkey-basics-post-thumbnail-01.jpg]]></wp:meta_value>
@@ -517,7 +517,7 @@
 		<link>http://snow-monkey-advanced-test.local/%e5%88%9d%e3%82%81%e3%81%a6%e3%81%ae%e4%b8%8d%e5%8b%95%e7%94%a3%e8%b3%bc%e5%85%a5%e3%81%a7%e6%8a%bc%e3%81%95%e3%81%88%e3%81%a6%e3%81%8a%e3%81%8d%e3%81%9f%e3%81%84%e3%83%9d%e3%82%a4%e3%83%b3%e3%83%885/snow-monkey-basics-post-thumbnail-02/</link>
 		<pubDate>Tue, 01 Apr 2025 06:59:41 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-post-thumbnail-02.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/snow-monkey-basics-post-thumbnail-02.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -535,7 +535,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-post-thumbnail-02.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/snow-monkey-basics-post-thumbnail-02.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/04/snow-monkey-basics-post-thumbnail-02.jpg]]></wp:meta_value>
@@ -550,7 +550,7 @@
 		<link>http://snow-monkey-advanced-test.local/%e5%88%9d%e3%82%81%e3%81%a6%e3%81%ae%e4%b8%8d%e5%8b%95%e7%94%a3%e8%b3%bc%e5%85%a5%e3%81%a7%e6%8a%bc%e3%81%95%e3%81%88%e3%81%a6%e3%81%8a%e3%81%8d%e3%81%9f%e3%81%84%e3%83%9d%e3%82%a4%e3%83%b3%e3%83%885/snow-monkey-basics-post-thumbnail-03/</link>
 		<pubDate>Tue, 01 Apr 2025 06:59:42 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-post-thumbnail-03.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/snow-monkey-basics-post-thumbnail-03.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -568,7 +568,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-post-thumbnail-03.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/snow-monkey-basics-post-thumbnail-03.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/04/snow-monkey-basics-post-thumbnail-03.jpg]]></wp:meta_value>
@@ -583,7 +583,7 @@
 		<link>http://snow-monkey-advanced-test.local/%e5%88%9d%e3%82%81%e3%81%a6%e3%81%ae%e4%b8%8d%e5%8b%95%e7%94%a3%e8%b3%bc%e5%85%a5%e3%81%a7%e6%8a%bc%e3%81%95%e3%81%88%e3%81%a6%e3%81%8a%e3%81%8d%e3%81%9f%e3%81%84%e3%83%9d%e3%82%a4%e3%83%b3%e3%83%885/snow-monkey-basics-post-thumbnail-04/</link>
 		<pubDate>Tue, 01 Apr 2025 06:59:43 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-post-thumbnail-04.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/snow-monkey-basics-post-thumbnail-04.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -601,7 +601,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-post-thumbnail-04.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/snow-monkey-basics-post-thumbnail-04.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/04/snow-monkey-basics-post-thumbnail-04.jpg]]></wp:meta_value>
@@ -616,7 +616,7 @@
 		<link>http://snow-monkey-advanced-test.local/%e5%88%9d%e3%82%81%e3%81%a6%e3%81%ae%e4%b8%8d%e5%8b%95%e7%94%a3%e8%b3%bc%e5%85%a5%e3%81%a7%e6%8a%bc%e3%81%95%e3%81%88%e3%81%a6%e3%81%8a%e3%81%8d%e3%81%9f%e3%81%84%e3%83%9d%e3%82%a4%e3%83%b3%e3%83%885/snow-monkey-basics-post-thumbnail-05/</link>
 		<pubDate>Tue, 01 Apr 2025 06:59:44 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-post-thumbnail-05.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/snow-monkey-basics-post-thumbnail-05.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -634,7 +634,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-post-thumbnail-05.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/snow-monkey-basics-post-thumbnail-05.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/04/snow-monkey-basics-post-thumbnail-05.jpg]]></wp:meta_value>
@@ -649,7 +649,7 @@
 		<link>http://snow-monkey-advanced-test.local/%e5%88%9d%e3%82%81%e3%81%a6%e3%81%ae%e4%b8%8d%e5%8b%95%e7%94%a3%e8%b3%bc%e5%85%a5%e3%81%a7%e6%8a%bc%e3%81%95%e3%81%88%e3%81%a6%e3%81%8a%e3%81%8d%e3%81%9f%e3%81%84%e3%83%9d%e3%82%a4%e3%83%b3%e3%83%885/snow-monkey-basics-post-thumbnail-06/</link>
 		<pubDate>Tue, 01 Apr 2025 06:59:44 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-post-thumbnail-06.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/snow-monkey-basics-post-thumbnail-06.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -667,7 +667,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-post-thumbnail-06.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/snow-monkey-basics-post-thumbnail-06.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/04/snow-monkey-basics-post-thumbnail-06.jpg]]></wp:meta_value>
@@ -682,7 +682,7 @@
 		<link>http://snow-monkey-advanced-test.local/%e5%88%9d%e3%82%81%e3%81%a6%e3%81%ae%e4%b8%8d%e5%8b%95%e7%94%a3%e8%b3%bc%e5%85%a5%e3%81%a7%e6%8a%bc%e3%81%95%e3%81%88%e3%81%a6%e3%81%8a%e3%81%8d%e3%81%9f%e3%81%84%e3%83%9d%e3%82%a4%e3%83%b3%e3%83%885/snow-monkey-basics-post-thumbnail-07/</link>
 		<pubDate>Tue, 01 Apr 2025 06:59:45 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-post-thumbnail-07.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/snow-monkey-basics-post-thumbnail-07.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -700,7 +700,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-post-thumbnail-07.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/snow-monkey-basics-post-thumbnail-07.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/04/snow-monkey-basics-post-thumbnail-07.jpg]]></wp:meta_value>
@@ -715,7 +715,7 @@
 		<link>http://snow-monkey-advanced-test.local/%e5%88%9d%e3%82%81%e3%81%a6%e3%81%ae%e4%b8%8d%e5%8b%95%e7%94%a3%e8%b3%bc%e5%85%a5%e3%81%a7%e6%8a%bc%e3%81%95%e3%81%88%e3%81%a6%e3%81%8a%e3%81%8d%e3%81%9f%e3%81%84%e3%83%9d%e3%82%a4%e3%83%b3%e3%83%885/snow-monkey-basics-post-thumbnail-08/</link>
 		<pubDate>Tue, 01 Apr 2025 06:59:46 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-post-thumbnail-08.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/snow-monkey-basics-post-thumbnail-08.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -733,7 +733,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-post-thumbnail-08.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/snow-monkey-basics-post-thumbnail-08.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/04/snow-monkey-basics-post-thumbnail-08.jpg]]></wp:meta_value>
@@ -748,7 +748,7 @@
 		<link>http://snow-monkey-advanced-test.local/%e5%88%9d%e3%82%81%e3%81%a6%e3%81%ae%e4%b8%8d%e5%8b%95%e7%94%a3%e8%b3%bc%e5%85%a5%e3%81%a7%e6%8a%bc%e3%81%95%e3%81%88%e3%81%a6%e3%81%8a%e3%81%8d%e3%81%9f%e3%81%84%e3%83%9d%e3%82%a4%e3%83%b3%e3%83%885/snow-monkey-basics-post-thumbnail-09/</link>
 		<pubDate>Tue, 01 Apr 2025 06:59:47 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-post-thumbnail-09.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/snow-monkey-basics-post-thumbnail-09.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -766,7 +766,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-post-thumbnail-09.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/snow-monkey-basics-post-thumbnail-09.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/04/snow-monkey-basics-post-thumbnail-09.jpg]]></wp:meta_value>
@@ -781,7 +781,7 @@
 		<link>http://snow-monkey-advanced-test.local/%e5%88%9d%e3%82%81%e3%81%a6%e3%81%ae%e4%b8%8d%e5%8b%95%e7%94%a3%e8%b3%bc%e5%85%a5%e3%81%a7%e6%8a%bc%e3%81%95%e3%81%88%e3%81%a6%e3%81%8a%e3%81%8d%e3%81%9f%e3%81%84%e3%83%9d%e3%82%a4%e3%83%b3%e3%83%885/snow-monkey-basics-post-thumbnail-10/</link>
 		<pubDate>Tue, 01 Apr 2025 06:59:48 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-post-thumbnail-10.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/snow-monkey-basics-post-thumbnail-10.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -799,7 +799,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-post-thumbnail-10.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/snow-monkey-basics-post-thumbnail-10.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/04/snow-monkey-basics-post-thumbnail-10.jpg]]></wp:meta_value>
@@ -814,7 +814,7 @@
 		<link>http://snow-monkey-advanced-test.local/%e5%88%9d%e3%82%81%e3%81%a6%e3%81%ae%e4%b8%8d%e5%8b%95%e7%94%a3%e8%b3%bc%e5%85%a5%e3%81%a7%e6%8a%bc%e3%81%95%e3%81%88%e3%81%a6%e3%81%8a%e3%81%8d%e3%81%9f%e3%81%84%e3%83%9d%e3%82%a4%e3%83%b3%e3%83%885/snow-monkey-basics-post-thumbnail-11/</link>
 		<pubDate>Tue, 01 Apr 2025 06:59:48 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-post-thumbnail-11.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/snow-monkey-basics-post-thumbnail-11.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -832,7 +832,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-post-thumbnail-11.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/snow-monkey-basics-post-thumbnail-11.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/04/snow-monkey-basics-post-thumbnail-11.jpg]]></wp:meta_value>
@@ -847,7 +847,7 @@
 		<link>http://snow-monkey-advanced-test.local/%e5%88%9d%e3%82%81%e3%81%a6%e3%81%ae%e4%b8%8d%e5%8b%95%e7%94%a3%e8%b3%bc%e5%85%a5%e3%81%a7%e6%8a%bc%e3%81%95%e3%81%88%e3%81%a6%e3%81%8a%e3%81%8d%e3%81%9f%e3%81%84%e3%83%9d%e3%82%a4%e3%83%b3%e3%83%885/snow-monkey-basics-post-thumbnail-12/</link>
 		<pubDate>Tue, 01 Apr 2025 06:59:49 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-post-thumbnail-12.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/snow-monkey-basics-post-thumbnail-12.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -865,7 +865,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-post-thumbnail-12.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/snow-monkey-basics-post-thumbnail-12.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/04/snow-monkey-basics-post-thumbnail-12.jpg]]></wp:meta_value>
@@ -880,7 +880,7 @@
 		<link>http://snow-monkey-advanced-test.local/%e5%88%9d%e3%82%81%e3%81%a6%e3%81%ae%e4%b8%8d%e5%8b%95%e7%94%a3%e8%b3%bc%e5%85%a5%e3%81%a7%e6%8a%bc%e3%81%95%e3%81%88%e3%81%a6%e3%81%8a%e3%81%8d%e3%81%9f%e3%81%84%e3%83%9d%e3%82%a4%e3%83%b3%e3%83%885/snow-monkey-basics-post-thumbnail-13/</link>
 		<pubDate>Tue, 01 Apr 2025 06:59:50 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-post-thumbnail-13.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/snow-monkey-basics-post-thumbnail-13.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -898,7 +898,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-post-thumbnail-13.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/snow-monkey-basics-post-thumbnail-13.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/04/snow-monkey-basics-post-thumbnail-13.jpg]]></wp:meta_value>
@@ -913,7 +913,7 @@
 		<link>http://snow-monkey-advanced-test.local/%e5%88%9d%e3%82%81%e3%81%a6%e3%81%ae%e4%b8%8d%e5%8b%95%e7%94%a3%e8%b3%bc%e5%85%a5%e3%81%a7%e6%8a%bc%e3%81%95%e3%81%88%e3%81%a6%e3%81%8a%e3%81%8d%e3%81%9f%e3%81%84%e3%83%9d%e3%82%a4%e3%83%b3%e3%83%885/snow-monkey-basics-post-thumbnail-14/</link>
 		<pubDate>Tue, 01 Apr 2025 06:59:51 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-post-thumbnail-14.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/snow-monkey-basics-post-thumbnail-14.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -931,7 +931,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-post-thumbnail-14.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/snow-monkey-basics-post-thumbnail-14.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/04/snow-monkey-basics-post-thumbnail-14.jpg]]></wp:meta_value>
@@ -946,7 +946,7 @@
 		<link>http://snow-monkey-advanced-test.local/%e5%88%9d%e3%82%81%e3%81%a6%e3%81%ae%e4%b8%8d%e5%8b%95%e7%94%a3%e8%b3%bc%e5%85%a5%e3%81%a7%e6%8a%bc%e3%81%95%e3%81%88%e3%81%a6%e3%81%8a%e3%81%8d%e3%81%9f%e3%81%84%e3%83%9d%e3%82%a4%e3%83%b3%e3%83%885/snow-monkey-basics-post-thumbnail-15/</link>
 		<pubDate>Tue, 01 Apr 2025 06:59:52 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-post-thumbnail-15.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/snow-monkey-basics-post-thumbnail-15.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -964,7 +964,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-post-thumbnail-15.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/snow-monkey-basics-post-thumbnail-15.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/04/snow-monkey-basics-post-thumbnail-15.jpg]]></wp:meta_value>
@@ -979,7 +979,7 @@
 		<link>http://snow-monkey-advanced-test.local/%e5%88%9d%e3%82%81%e3%81%a6%e3%81%ae%e4%b8%8d%e5%8b%95%e7%94%a3%e8%b3%bc%e5%85%a5%e3%81%a7%e6%8a%bc%e3%81%95%e3%81%88%e3%81%a6%e3%81%8a%e3%81%8d%e3%81%9f%e3%81%84%e3%83%9d%e3%82%a4%e3%83%b3%e3%83%885/snow-monkey-basics-post-thumbnail-16/</link>
 		<pubDate>Tue, 01 Apr 2025 06:59:52 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-post-thumbnail-16.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/snow-monkey-basics-post-thumbnail-16.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -997,7 +997,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-post-thumbnail-16.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/snow-monkey-basics-post-thumbnail-16.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/04/snow-monkey-basics-post-thumbnail-16.jpg]]></wp:meta_value>
@@ -1012,7 +1012,7 @@
 		<link>http://snow-monkey-advanced-test.local/%e5%88%9d%e3%82%81%e3%81%a6%e3%81%ae%e4%b8%8d%e5%8b%95%e7%94%a3%e8%b3%bc%e5%85%a5%e3%81%a7%e6%8a%bc%e3%81%95%e3%81%88%e3%81%a6%e3%81%8a%e3%81%8d%e3%81%9f%e3%81%84%e3%83%9d%e3%82%a4%e3%83%b3%e3%83%885/snow-monkey-basics-post-thumbnail-17/</link>
 		<pubDate>Tue, 01 Apr 2025 06:59:53 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-post-thumbnail-17.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/snow-monkey-basics-post-thumbnail-17.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1030,7 +1030,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-post-thumbnail-17.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/snow-monkey-basics-post-thumbnail-17.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/04/snow-monkey-basics-post-thumbnail-17.jpg]]></wp:meta_value>
@@ -1045,7 +1045,7 @@
 		<link>http://snow-monkey-advanced-test.local/%e5%88%9d%e3%82%81%e3%81%a6%e3%81%ae%e4%b8%8d%e5%8b%95%e7%94%a3%e8%b3%bc%e5%85%a5%e3%81%a7%e6%8a%bc%e3%81%95%e3%81%88%e3%81%a6%e3%81%8a%e3%81%8d%e3%81%9f%e3%81%84%e3%83%9d%e3%82%a4%e3%83%b3%e3%83%885/snow-monkey-basics-post-thumbnail-18/</link>
 		<pubDate>Tue, 01 Apr 2025 06:59:54 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-post-thumbnail-18.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/snow-monkey-basics-post-thumbnail-18.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1063,7 +1063,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-post-thumbnail-18.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/snow-monkey-basics-post-thumbnail-18.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/04/snow-monkey-basics-post-thumbnail-18.jpg]]></wp:meta_value>
@@ -1078,7 +1078,7 @@
 		<link>http://snow-monkey-advanced-test.local/%e5%88%9d%e3%82%81%e3%81%a6%e3%81%ae%e4%b8%8d%e5%8b%95%e7%94%a3%e8%b3%bc%e5%85%a5%e3%81%a7%e6%8a%bc%e3%81%95%e3%81%88%e3%81%a6%e3%81%8a%e3%81%8d%e3%81%9f%e3%81%84%e3%83%9d%e3%82%a4%e3%83%b3%e3%83%885/snow-monkey-basics-post-thumbnail-19/</link>
 		<pubDate>Tue, 01 Apr 2025 06:59:55 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-post-thumbnail-19.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/snow-monkey-basics-post-thumbnail-19.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1096,7 +1096,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-post-thumbnail-19.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/snow-monkey-basics-post-thumbnail-19.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/04/snow-monkey-basics-post-thumbnail-19.jpg]]></wp:meta_value>
@@ -1111,7 +1111,7 @@
 		<link>http://snow-monkey-advanced-test.local/%e5%88%9d%e3%82%81%e3%81%a6%e3%81%ae%e4%b8%8d%e5%8b%95%e7%94%a3%e8%b3%bc%e5%85%a5%e3%81%a7%e6%8a%bc%e3%81%95%e3%81%88%e3%81%a6%e3%81%8a%e3%81%8d%e3%81%9f%e3%81%84%e3%83%9d%e3%82%a4%e3%83%b3%e3%83%885/snow-monkey-basics-post-thumbnail-20/</link>
 		<pubDate>Tue, 01 Apr 2025 06:59:56 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-post-thumbnail-20.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/snow-monkey-basics-post-thumbnail-20.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1129,7 +1129,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-post-thumbnail-20.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/snow-monkey-basics-post-thumbnail-20.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/04/snow-monkey-basics-post-thumbnail-20.jpg]]></wp:meta_value>
@@ -1144,7 +1144,7 @@
 		<link>http://snow-monkey-advanced-test.local/%e5%88%9d%e3%82%81%e3%81%a6%e3%81%ae%e4%b8%8d%e5%8b%95%e7%94%a3%e8%b3%bc%e5%85%a5%e3%81%a7%e6%8a%bc%e3%81%95%e3%81%88%e3%81%a6%e3%81%8a%e3%81%8d%e3%81%9f%e3%81%84%e3%83%9d%e3%82%a4%e3%83%b3%e3%83%885/snow-monkey-basics-post-thumbnail-21/</link>
 		<pubDate>Tue, 01 Apr 2025 06:59:57 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-post-thumbnail-21.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/snow-monkey-basics-post-thumbnail-21.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1162,7 +1162,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-post-thumbnail-21.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/snow-monkey-basics-post-thumbnail-21.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/04/snow-monkey-basics-post-thumbnail-21.jpg]]></wp:meta_value>
@@ -1177,7 +1177,7 @@
 		<link>http://snow-monkey-advanced-test.local/%e5%88%9d%e3%82%81%e3%81%a6%e3%81%ae%e4%b8%8d%e5%8b%95%e7%94%a3%e8%b3%bc%e5%85%a5%e3%81%a7%e6%8a%bc%e3%81%95%e3%81%88%e3%81%a6%e3%81%8a%e3%81%8d%e3%81%9f%e3%81%84%e3%83%9d%e3%82%a4%e3%83%b3%e3%83%885/snow-monkey-basics-post-thumbnail-22/</link>
 		<pubDate>Tue, 01 Apr 2025 06:59:57 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-post-thumbnail-22.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/snow-monkey-basics-post-thumbnail-22.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1195,7 +1195,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-post-thumbnail-22.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/snow-monkey-basics-post-thumbnail-22.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/04/snow-monkey-basics-post-thumbnail-22.jpg]]></wp:meta_value>
@@ -1210,7 +1210,7 @@
 		<link>http://snow-monkey-advanced-test.local/%e5%88%9d%e3%82%81%e3%81%a6%e3%81%ae%e4%b8%8d%e5%8b%95%e7%94%a3%e8%b3%bc%e5%85%a5%e3%81%a7%e6%8a%bc%e3%81%95%e3%81%88%e3%81%a6%e3%81%8a%e3%81%8d%e3%81%9f%e3%81%84%e3%83%9d%e3%82%a4%e3%83%b3%e3%83%885/snow-monkey-basics-post-thumbnail-23/</link>
 		<pubDate>Tue, 01 Apr 2025 06:59:58 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-post-thumbnail-23.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/snow-monkey-basics-post-thumbnail-23.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1228,7 +1228,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-post-thumbnail-23.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/snow-monkey-basics-post-thumbnail-23.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/04/snow-monkey-basics-post-thumbnail-23.jpg]]></wp:meta_value>
@@ -1243,7 +1243,7 @@
 		<link>http://snow-monkey-advanced-test.local/%e5%88%9d%e3%82%81%e3%81%a6%e3%81%ae%e4%b8%8d%e5%8b%95%e7%94%a3%e8%b3%bc%e5%85%a5%e3%81%a7%e6%8a%bc%e3%81%95%e3%81%88%e3%81%a6%e3%81%8a%e3%81%8d%e3%81%9f%e3%81%84%e3%83%9d%e3%82%a4%e3%83%b3%e3%83%885/snow-monkey-basics-post-thumbnail-24/</link>
 		<pubDate>Tue, 01 Apr 2025 06:59:59 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-post-thumbnail-24.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/snow-monkey-basics-post-thumbnail-24.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1261,7 +1261,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-post-thumbnail-24.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/snow-monkey-basics-post-thumbnail-24.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/04/snow-monkey-basics-post-thumbnail-24.jpg]]></wp:meta_value>
@@ -1276,7 +1276,7 @@
 		<link>http://snow-monkey-advanced-test.local/%e5%88%9d%e3%82%81%e3%81%a6%e3%81%ae%e4%b8%8d%e5%8b%95%e7%94%a3%e8%b3%bc%e5%85%a5%e3%81%a7%e6%8a%bc%e3%81%95%e3%81%88%e3%81%a6%e3%81%8a%e3%81%8d%e3%81%9f%e3%81%84%e3%83%9d%e3%82%a4%e3%83%b3%e3%83%885/snow-monkey-basics-post-thumbnail-25/</link>
 		<pubDate>Tue, 01 Apr 2025 07:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-post-thumbnail-25.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/snow-monkey-basics-post-thumbnail-25.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1294,7 +1294,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-post-thumbnail-25.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/snow-monkey-basics-post-thumbnail-25.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/04/snow-monkey-basics-post-thumbnail-25.jpg]]></wp:meta_value>
@@ -1309,7 +1309,7 @@
 		<link>http://snow-monkey-advanced-test.local/%e5%88%9d%e3%82%81%e3%81%a6%e3%81%ae%e4%b8%8d%e5%8b%95%e7%94%a3%e8%b3%bc%e5%85%a5%e3%81%a7%e6%8a%bc%e3%81%95%e3%81%88%e3%81%a6%e3%81%8a%e3%81%8d%e3%81%9f%e3%81%84%e3%83%9d%e3%82%a4%e3%83%b3%e3%83%885/snow-monkey-basics-post-thumbnail-26/</link>
 		<pubDate>Tue, 01 Apr 2025 07:00:01 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-post-thumbnail-26.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/snow-monkey-basics-post-thumbnail-26.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1327,7 +1327,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-post-thumbnail-26.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/snow-monkey-basics-post-thumbnail-26.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/04/snow-monkey-basics-post-thumbnail-26.jpg]]></wp:meta_value>
@@ -1342,7 +1342,7 @@
 		<link>http://snow-monkey-advanced-test.local/%e5%88%9d%e3%82%81%e3%81%a6%e3%81%ae%e4%b8%8d%e5%8b%95%e7%94%a3%e8%b3%bc%e5%85%a5%e3%81%a7%e6%8a%bc%e3%81%95%e3%81%88%e3%81%a6%e3%81%8a%e3%81%8d%e3%81%9f%e3%81%84%e3%83%9d%e3%82%a4%e3%83%b3%e3%83%885/snow-monkey-basics-post-thumbnail-27/</link>
 		<pubDate>Tue, 01 Apr 2025 07:00:01 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-post-thumbnail-27.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/snow-monkey-basics-post-thumbnail-27.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1360,7 +1360,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-post-thumbnail-27.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/snow-monkey-basics-post-thumbnail-27.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/04/snow-monkey-basics-post-thumbnail-27.jpg]]></wp:meta_value>
@@ -1375,7 +1375,7 @@
 		<link>http://snow-monkey-advanced-test.local/%e5%88%9d%e3%82%81%e3%81%a6%e3%81%ae%e4%b8%8d%e5%8b%95%e7%94%a3%e8%b3%bc%e5%85%a5%e3%81%a7%e6%8a%bc%e3%81%95%e3%81%88%e3%81%a6%e3%81%8a%e3%81%8d%e3%81%9f%e3%81%84%e3%83%9d%e3%82%a4%e3%83%b3%e3%83%885/snow-monkey-basics-post-thumbnail-28/</link>
 		<pubDate>Tue, 01 Apr 2025 07:00:02 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-post-thumbnail-28.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/snow-monkey-basics-post-thumbnail-28.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1393,7 +1393,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-post-thumbnail-28.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/snow-monkey-basics-post-thumbnail-28.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/04/snow-monkey-basics-post-thumbnail-28.jpg]]></wp:meta_value>
@@ -1408,7 +1408,7 @@
 		<link>http://snow-monkey-advanced-test.local/%e5%88%9d%e3%82%81%e3%81%a6%e3%81%ae%e4%b8%8d%e5%8b%95%e7%94%a3%e8%b3%bc%e5%85%a5%e3%81%a7%e6%8a%bc%e3%81%95%e3%81%88%e3%81%a6%e3%81%8a%e3%81%8d%e3%81%9f%e3%81%84%e3%83%9d%e3%82%a4%e3%83%b3%e3%83%885/snow-monkey-basics-post-thumbnail-29/</link>
 		<pubDate>Tue, 01 Apr 2025 07:00:03 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-post-thumbnail-29.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/snow-monkey-basics-post-thumbnail-29.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1426,7 +1426,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-post-thumbnail-29.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/snow-monkey-basics-post-thumbnail-29.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/04/snow-monkey-basics-post-thumbnail-29.jpg]]></wp:meta_value>
@@ -1441,7 +1441,7 @@
 		<link>http://snow-monkey-advanced-test.local/%e5%88%9d%e3%82%81%e3%81%a6%e3%81%ae%e4%b8%8d%e5%8b%95%e7%94%a3%e8%b3%bc%e5%85%a5%e3%81%a7%e6%8a%bc%e3%81%95%e3%81%88%e3%81%a6%e3%81%8a%e3%81%8d%e3%81%9f%e3%81%84%e3%83%9d%e3%82%a4%e3%83%b3%e3%83%885/snow-monkey-basics-post-thumbnail-30/</link>
 		<pubDate>Tue, 01 Apr 2025 07:00:04 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-post-thumbnail-30.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/snow-monkey-basics-post-thumbnail-30.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1459,7 +1459,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-post-thumbnail-30.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/snow-monkey-basics-post-thumbnail-30.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/04/snow-monkey-basics-post-thumbnail-30.jpg]]></wp:meta_value>
@@ -1474,7 +1474,7 @@
 		<link>http://snow-monkey-advanced-test.local/%e5%88%9d%e3%82%81%e3%81%a6%e3%81%ae%e4%b8%8d%e5%8b%95%e7%94%a3%e8%b3%bc%e5%85%a5%e3%81%a7%e6%8a%bc%e3%81%95%e3%81%88%e3%81%a6%e3%81%8a%e3%81%8d%e3%81%9f%e3%81%84%e3%83%9d%e3%82%a4%e3%83%b3%e3%83%885/snow-monkey-basics-post-thumbnail-31/</link>
 		<pubDate>Tue, 01 Apr 2025 07:00:05 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-post-thumbnail-31.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/snow-monkey-basics-post-thumbnail-31.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1492,7 +1492,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-post-thumbnail-31.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/snow-monkey-basics-post-thumbnail-31.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/04/snow-monkey-basics-post-thumbnail-31.jpg]]></wp:meta_value>
@@ -1507,7 +1507,7 @@
 		<link>http://snow-monkey-advanced-test.local/%e5%88%9d%e3%82%81%e3%81%a6%e3%81%ae%e4%b8%8d%e5%8b%95%e7%94%a3%e8%b3%bc%e5%85%a5%e3%81%a7%e6%8a%bc%e3%81%95%e3%81%88%e3%81%a6%e3%81%8a%e3%81%8d%e3%81%9f%e3%81%84%e3%83%9d%e3%82%a4%e3%83%b3%e3%83%885/snow-monkey-basics-post-thumbnail-32/</link>
 		<pubDate>Tue, 01 Apr 2025 07:00:06 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-post-thumbnail-32.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/snow-monkey-basics-post-thumbnail-32.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1525,7 +1525,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-post-thumbnail-32.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/snow-monkey-basics-post-thumbnail-32.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/04/snow-monkey-basics-post-thumbnail-32.jpg]]></wp:meta_value>
@@ -1540,7 +1540,7 @@
 		<link>http://snow-monkey-advanced-test.local/%e5%88%9d%e3%82%81%e3%81%a6%e3%81%ae%e4%b8%8d%e5%8b%95%e7%94%a3%e8%b3%bc%e5%85%a5%e3%81%a7%e6%8a%bc%e3%81%95%e3%81%88%e3%81%a6%e3%81%8a%e3%81%8d%e3%81%9f%e3%81%84%e3%83%9d%e3%82%a4%e3%83%b3%e3%83%885/snow-monkey-basics-post-thumbnail-33/</link>
 		<pubDate>Tue, 01 Apr 2025 07:00:06 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-post-thumbnail-33.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/snow-monkey-basics-post-thumbnail-33.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1558,7 +1558,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-post-thumbnail-33.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/snow-monkey-basics-post-thumbnail-33.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/04/snow-monkey-basics-post-thumbnail-33.jpg]]></wp:meta_value>
@@ -1573,7 +1573,7 @@
 		<link>http://snow-monkey-advanced-test.local/%e5%88%9d%e3%82%81%e3%81%a6%e3%81%ae%e4%b8%8d%e5%8b%95%e7%94%a3%e8%b3%bc%e5%85%a5%e3%81%a7%e6%8a%bc%e3%81%95%e3%81%88%e3%81%a6%e3%81%8a%e3%81%8d%e3%81%9f%e3%81%84%e3%83%9d%e3%82%a4%e3%83%b3%e3%83%885/snow-monkey-basics-post-thumbnail-34/</link>
 		<pubDate>Tue, 01 Apr 2025 07:00:07 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-post-thumbnail-34.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/snow-monkey-basics-post-thumbnail-34.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1591,7 +1591,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-post-thumbnail-34.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/snow-monkey-basics-post-thumbnail-34.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/04/snow-monkey-basics-post-thumbnail-34.jpg]]></wp:meta_value>
@@ -1606,7 +1606,7 @@
 		<link>http://snow-monkey-advanced-test.local/%e5%88%9d%e3%82%81%e3%81%a6%e3%81%ae%e4%b8%8d%e5%8b%95%e7%94%a3%e8%b3%bc%e5%85%a5%e3%81%a7%e6%8a%bc%e3%81%95%e3%81%88%e3%81%a6%e3%81%8a%e3%81%8d%e3%81%9f%e3%81%84%e3%83%9d%e3%82%a4%e3%83%b3%e3%83%885/snow-monkey-basics-post-thumbnail-35/</link>
 		<pubDate>Tue, 01 Apr 2025 07:00:08 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-post-thumbnail-35.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/snow-monkey-basics-post-thumbnail-35.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1624,7 +1624,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-post-thumbnail-35.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/snow-monkey-basics-post-thumbnail-35.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/04/snow-monkey-basics-post-thumbnail-35.jpg]]></wp:meta_value>
@@ -1639,7 +1639,7 @@
 		<link>http://snow-monkey-advanced-test.local/%e5%88%9d%e3%82%81%e3%81%a6%e3%81%ae%e4%b8%8d%e5%8b%95%e7%94%a3%e8%b3%bc%e5%85%a5%e3%81%a7%e6%8a%bc%e3%81%95%e3%81%88%e3%81%a6%e3%81%8a%e3%81%8d%e3%81%9f%e3%81%84%e3%83%9d%e3%82%a4%e3%83%b3%e3%83%885/snow-monkey-basics-post-thumbnail-36/</link>
 		<pubDate>Tue, 01 Apr 2025 07:00:09 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-post-thumbnail-36.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/snow-monkey-basics-post-thumbnail-36.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1657,7 +1657,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-post-thumbnail-36.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/snow-monkey-basics-post-thumbnail-36.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/04/snow-monkey-basics-post-thumbnail-36.jpg]]></wp:meta_value>
@@ -1672,7 +1672,7 @@
 		<link>http://snow-monkey-advanced-test.local/%e5%88%9d%e3%82%81%e3%81%a6%e3%81%ae%e4%b8%8d%e5%8b%95%e7%94%a3%e8%b3%bc%e5%85%a5%e3%81%a7%e6%8a%bc%e3%81%95%e3%81%88%e3%81%a6%e3%81%8a%e3%81%8d%e3%81%9f%e3%81%84%e3%83%9d%e3%82%a4%e3%83%b3%e3%83%885/snow-monkey-basics-post-thumbnail-37/</link>
 		<pubDate>Tue, 01 Apr 2025 07:00:10 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-post-thumbnail-37.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/snow-monkey-basics-post-thumbnail-37.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1690,7 +1690,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-post-thumbnail-37.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/snow-monkey-basics-post-thumbnail-37.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/04/snow-monkey-basics-post-thumbnail-37.jpg]]></wp:meta_value>
@@ -1705,7 +1705,7 @@
 		<link>http://snow-monkey-advanced-test.local/%e5%88%9d%e3%82%81%e3%81%a6%e3%81%ae%e4%b8%8d%e5%8b%95%e7%94%a3%e8%b3%bc%e5%85%a5%e3%81%a7%e6%8a%bc%e3%81%95%e3%81%88%e3%81%a6%e3%81%8a%e3%81%8d%e3%81%9f%e3%81%84%e3%83%9d%e3%82%a4%e3%83%b3%e3%83%885/snow-monkey-basics-post-thumbnail-38/</link>
 		<pubDate>Tue, 01 Apr 2025 07:00:10 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-post-thumbnail-38.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/snow-monkey-basics-post-thumbnail-38.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1723,7 +1723,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-post-thumbnail-38.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/snow-monkey-basics-post-thumbnail-38.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/04/snow-monkey-basics-post-thumbnail-38.jpg]]></wp:meta_value>
@@ -1738,7 +1738,7 @@
 		<link>http://snow-monkey-advanced-test.local/%e5%88%9d%e3%82%81%e3%81%a6%e3%81%ae%e4%b8%8d%e5%8b%95%e7%94%a3%e8%b3%bc%e5%85%a5%e3%81%a7%e6%8a%bc%e3%81%95%e3%81%88%e3%81%a6%e3%81%8a%e3%81%8d%e3%81%9f%e3%81%84%e3%83%9d%e3%82%a4%e3%83%b3%e3%83%885/snow-monkey-basics-post-thumbnail-39/</link>
 		<pubDate>Tue, 01 Apr 2025 07:00:11 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-post-thumbnail-39.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/snow-monkey-basics-post-thumbnail-39.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1756,7 +1756,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-post-thumbnail-39.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/snow-monkey-basics-post-thumbnail-39.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/04/snow-monkey-basics-post-thumbnail-39.jpg]]></wp:meta_value>
@@ -1771,7 +1771,7 @@
 		<link>http://snow-monkey-advanced-test.local/%e5%88%9d%e3%82%81%e3%81%a6%e3%81%ae%e4%b8%8d%e5%8b%95%e7%94%a3%e8%b3%bc%e5%85%a5%e3%81%a7%e6%8a%bc%e3%81%95%e3%81%88%e3%81%a6%e3%81%8a%e3%81%8d%e3%81%9f%e3%81%84%e3%83%9d%e3%82%a4%e3%83%b3%e3%83%885/snow-monkey-basics-post-thumbnail-40/</link>
 		<pubDate>Tue, 01 Apr 2025 07:00:12 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-post-thumbnail-40.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/snow-monkey-basics-post-thumbnail-40.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1789,7 +1789,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-post-thumbnail-40.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/snow-monkey-basics-post-thumbnail-40.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/04/snow-monkey-basics-post-thumbnail-40.jpg]]></wp:meta_value>
@@ -1804,7 +1804,7 @@
 		<link>http://snow-monkey-advanced-test.local/%e5%88%9d%e3%82%81%e3%81%a6%e3%81%ae%e4%b8%8d%e5%8b%95%e7%94%a3%e8%b3%bc%e5%85%a5%e3%81%a7%e6%8a%bc%e3%81%95%e3%81%88%e3%81%a6%e3%81%8a%e3%81%8d%e3%81%9f%e3%81%84%e3%83%9d%e3%82%a4%e3%83%b3%e3%83%885/snow-monkey-basics-post-thumbnail-41/</link>
 		<pubDate>Tue, 01 Apr 2025 07:00:13 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-post-thumbnail-41.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/snow-monkey-basics-post-thumbnail-41.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1822,7 +1822,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-post-thumbnail-41.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/snow-monkey-basics-post-thumbnail-41.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/04/snow-monkey-basics-post-thumbnail-41.jpg]]></wp:meta_value>
@@ -1837,7 +1837,7 @@
 		<link>http://snow-monkey-advanced-test.local/front-page/snow-monkey-basics-page-thumbnail-about/</link>
 		<pubDate>Tue, 01 Apr 2025 07:50:23 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-page-thumbnail-about.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/snow-monkey-basics-page-thumbnail-about.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1855,7 +1855,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-page-thumbnail-about.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/snow-monkey-basics-page-thumbnail-about.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/04/snow-monkey-basics-page-thumbnail-about.jpg]]></wp:meta_value>
@@ -1870,7 +1870,7 @@
 		<link>http://snow-monkey-advanced-test.local/front-page/snow-monkey-basics-page-thumbnail-contact/</link>
 		<pubDate>Tue, 01 Apr 2025 07:50:24 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-page-thumbnail-contact.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/snow-monkey-basics-page-thumbnail-contact.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1888,7 +1888,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-page-thumbnail-contact.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/snow-monkey-basics-page-thumbnail-contact.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/04/snow-monkey-basics-page-thumbnail-contact.jpg]]></wp:meta_value>
@@ -1903,7 +1903,7 @@
 		<link>http://snow-monkey-advanced-test.local/front-page/snow-monkey-basics-page-thumbnail-front-page/</link>
 		<pubDate>Tue, 01 Apr 2025 07:50:25 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-page-thumbnail-front-page.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/snow-monkey-basics-page-thumbnail-front-page.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1921,7 +1921,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-page-thumbnail-front-page.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/snow-monkey-basics-page-thumbnail-front-page.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/04/snow-monkey-basics-page-thumbnail-front-page.jpg]]></wp:meta_value>
@@ -1936,7 +1936,7 @@
 		<link>http://snow-monkey-advanced-test.local/front-page/snow-monkey-basics-page-thumbnail-greeting/</link>
 		<pubDate>Tue, 01 Apr 2025 07:50:26 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-page-thumbnail-greeting.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/snow-monkey-basics-page-thumbnail-greeting.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1954,7 +1954,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-page-thumbnail-greeting.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/snow-monkey-basics-page-thumbnail-greeting.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/04/snow-monkey-basics-page-thumbnail-greeting.jpg]]></wp:meta_value>
@@ -1969,7 +1969,7 @@
 		<link>http://snow-monkey-advanced-test.local/front-page/snow-monkey-basics-page-thumbnail-property/</link>
 		<pubDate>Tue, 01 Apr 2025 07:50:26 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-page-thumbnail-property.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/snow-monkey-basics-page-thumbnail-property.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1987,7 +1987,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-page-thumbnail-property.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/snow-monkey-basics-page-thumbnail-property.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/04/snow-monkey-basics-page-thumbnail-property.jpg]]></wp:meta_value>
@@ -2002,7 +2002,7 @@
 		<link>http://snow-monkey-advanced-test.local/front-page/snow-monkey-basics-page-thumbnail-service/</link>
 		<pubDate>Tue, 01 Apr 2025 07:50:27 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-page-thumbnail-service.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/snow-monkey-basics-page-thumbnail-service.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2020,7 +2020,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-page-thumbnail-service.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/snow-monkey-basics-page-thumbnail-service.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/04/snow-monkey-basics-page-thumbnail-service.jpg]]></wp:meta_value>
@@ -2035,7 +2035,7 @@
 		<link>http://snow-monkey-advanced-test.local/front-page/snow-monkey-basics-page-thumbnail-staff/</link>
 		<pubDate>Tue, 01 Apr 2025 07:50:28 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-page-thumbnail-staff.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/snow-monkey-basics-page-thumbnail-staff.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2053,7 +2053,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-page-thumbnail-staff.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/snow-monkey-basics-page-thumbnail-staff.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/04/snow-monkey-basics-page-thumbnail-staff.jpg]]></wp:meta_value>
@@ -2068,7 +2068,7 @@
 		<link>http://snow-monkey-advanced-test.local/blog/snow-monkey-basics-page-thumbnail-blog/</link>
 		<pubDate>Tue, 01 Apr 2025 07:54:17 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-page-thumbnail-blog.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/snow-monkey-basics-page-thumbnail-blog.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2086,7 +2086,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-page-thumbnail-blog.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/snow-monkey-basics-page-thumbnail-blog.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/04/snow-monkey-basics-page-thumbnail-blog.jpg]]></wp:meta_value>
@@ -2101,7 +2101,7 @@
 		<link>http://snow-monkey-advanced-test.local/about/greeting/snow-monkey-basics-page-thumbnail-greeting-portfolio/</link>
 		<pubDate>Tue, 01 Apr 2025 10:19:48 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-page-thumbnail-greeting-portfolio.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/snow-monkey-basics-page-thumbnail-greeting-portfolio.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2119,7 +2119,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-page-thumbnail-greeting-portfolio.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/snow-monkey-basics-page-thumbnail-greeting-portfolio.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/04/snow-monkey-basics-page-thumbnail-greeting-portfolio.jpg]]></wp:meta_value>
@@ -2134,7 +2134,7 @@
 		<link>http://snow-monkey-advanced-test.local/about/staff/snow-monkey-basics-page-thumbnail-staff-01/</link>
 		<pubDate>Tue, 01 Apr 2025 10:29:34 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-page-thumbnail-staff-01.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/snow-monkey-basics-page-thumbnail-staff-01.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2152,7 +2152,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-page-thumbnail-staff-01.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/snow-monkey-basics-page-thumbnail-staff-01.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/04/snow-monkey-basics-page-thumbnail-staff-01.jpg]]></wp:meta_value>
@@ -2167,7 +2167,7 @@
 		<link>http://snow-monkey-advanced-test.local/about/staff/snow-monkey-basics-page-thumbnail-staff-02/</link>
 		<pubDate>Tue, 01 Apr 2025 10:29:35 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-page-thumbnail-staff-02.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/snow-monkey-basics-page-thumbnail-staff-02.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2185,7 +2185,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-page-thumbnail-staff-02.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/snow-monkey-basics-page-thumbnail-staff-02.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/04/snow-monkey-basics-page-thumbnail-staff-02.jpg]]></wp:meta_value>
@@ -2200,7 +2200,7 @@
 		<link>http://snow-monkey-advanced-test.local/about/staff/snow-monkey-basics-page-thumbnail-staff-03/</link>
 		<pubDate>Tue, 01 Apr 2025 10:29:36 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-page-thumbnail-staff-03.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/snow-monkey-basics-page-thumbnail-staff-03.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2218,7 +2218,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-page-thumbnail-staff-03.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/snow-monkey-basics-page-thumbnail-staff-03.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/04/snow-monkey-basics-page-thumbnail-staff-03.jpg]]></wp:meta_value>
@@ -2233,7 +2233,7 @@
 		<link>http://snow-monkey-advanced-test.local/about/staff/snow-monkey-basics-page-thumbnail-staff-04/</link>
 		<pubDate>Tue, 01 Apr 2025 10:29:37 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-page-thumbnail-staff-04.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/snow-monkey-basics-page-thumbnail-staff-04.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2251,7 +2251,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-page-thumbnail-staff-04.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/snow-monkey-basics-page-thumbnail-staff-04.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/04/snow-monkey-basics-page-thumbnail-staff-04.jpg]]></wp:meta_value>
@@ -2266,7 +2266,7 @@
 		<link>http://snow-monkey-advanced-test.local/service/snow-monkey-basics-service-01/</link>
 		<pubDate>Wed, 02 Apr 2025 05:06:01 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-service-01.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/snow-monkey-basics-service-01.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2284,7 +2284,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-service-01.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/snow-monkey-basics-service-01.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/04/snow-monkey-basics-service-01.jpg]]></wp:meta_value>
@@ -2299,7 +2299,7 @@
 		<link>http://snow-monkey-advanced-test.local/service/snow-monkey-basics-service-02/</link>
 		<pubDate>Wed, 02 Apr 2025 05:06:02 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-service-02.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/snow-monkey-basics-service-02.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2317,7 +2317,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-service-02.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/snow-monkey-basics-service-02.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/04/snow-monkey-basics-service-02.jpg]]></wp:meta_value>
@@ -2332,7 +2332,7 @@
 		<link>http://snow-monkey-advanced-test.local/service/snow-monkey-basics-service-03/</link>
 		<pubDate>Wed, 02 Apr 2025 05:06:02 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-service-03.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/snow-monkey-basics-service-03.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2350,7 +2350,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-service-03.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/snow-monkey-basics-service-03.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/04/snow-monkey-basics-service-03.jpg]]></wp:meta_value>
@@ -2365,7 +2365,7 @@
 		<link>http://snow-monkey-advanced-test.local/service/snow-monkey-basics-service-04/</link>
 		<pubDate>Wed, 02 Apr 2025 05:06:03 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-service-04.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/snow-monkey-basics-service-04.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2383,7 +2383,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-service-04.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/snow-monkey-basics-service-04.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/04/snow-monkey-basics-service-04.jpg]]></wp:meta_value>
@@ -2398,7 +2398,7 @@
 		<link>http://snow-monkey-advanced-test.local/service/snow-monkey-basics-service-05/</link>
 		<pubDate>Wed, 02 Apr 2025 05:06:04 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-service-05.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/snow-monkey-basics-service-05.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2416,7 +2416,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-service-05.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/snow-monkey-basics-service-05.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/04/snow-monkey-basics-service-05.jpg]]></wp:meta_value>
@@ -2431,7 +2431,7 @@
 		<link>http://snow-monkey-advanced-test.local/service/snow-monkey-basics-service-06/</link>
 		<pubDate>Wed, 02 Apr 2025 05:06:05 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-service-06.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/snow-monkey-basics-service-06.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2449,7 +2449,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-service-06.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/snow-monkey-basics-service-06.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/04/snow-monkey-basics-service-06.jpg]]></wp:meta_value>
@@ -2464,7 +2464,7 @@
 		<link>http://snow-monkey-advanced-test.local/snow-monkey-basics-property-thumbnail-01/</link>
 		<pubDate>Sun, 06 Apr 2025 07:56:09 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-property-thumbnail-01.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/snow-monkey-basics-property-thumbnail-01.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2482,7 +2482,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-property-thumbnail-01.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/snow-monkey-basics-property-thumbnail-01.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/04/snow-monkey-basics-property-thumbnail-01.jpg]]></wp:meta_value>
@@ -2497,7 +2497,7 @@
 		<link>http://snow-monkey-advanced-test.local/snow-monkey-basics-property-thumbnail-02/</link>
 		<pubDate>Sun, 06 Apr 2025 07:56:10 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-property-thumbnail-02.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/snow-monkey-basics-property-thumbnail-02.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2515,7 +2515,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-property-thumbnail-02.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/snow-monkey-basics-property-thumbnail-02.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/04/snow-monkey-basics-property-thumbnail-02.jpg]]></wp:meta_value>
@@ -2530,7 +2530,7 @@
 		<link>http://snow-monkey-advanced-test.local/snow-monkey-basics-property-thumbnail-03/</link>
 		<pubDate>Sun, 06 Apr 2025 07:56:11 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-property-thumbnail-03.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/snow-monkey-basics-property-thumbnail-03.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2548,7 +2548,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-property-thumbnail-03.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/snow-monkey-basics-property-thumbnail-03.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/04/snow-monkey-basics-property-thumbnail-03.jpg]]></wp:meta_value>
@@ -2563,7 +2563,7 @@
 		<link>http://snow-monkey-advanced-test.local/snow-monkey-basics-property-thumbnail-04/</link>
 		<pubDate>Sun, 06 Apr 2025 07:56:11 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-property-thumbnail-04.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/snow-monkey-basics-property-thumbnail-04.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2581,7 +2581,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-property-thumbnail-04.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/snow-monkey-basics-property-thumbnail-04.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/04/snow-monkey-basics-property-thumbnail-04.jpg]]></wp:meta_value>
@@ -2596,7 +2596,7 @@
 		<link>http://snow-monkey-advanced-test.local/snow-monkey-basics-property-thumbnail-05/</link>
 		<pubDate>Sun, 06 Apr 2025 07:56:12 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-property-thumbnail-05.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/snow-monkey-basics-property-thumbnail-05.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2614,7 +2614,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-property-thumbnail-05.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/snow-monkey-basics-property-thumbnail-05.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/04/snow-monkey-basics-property-thumbnail-05.jpg]]></wp:meta_value>
@@ -2629,7 +2629,7 @@
 		<link>http://snow-monkey-advanced-test.local/snow-monkey-basics-property-thumbnail-06/</link>
 		<pubDate>Sun, 06 Apr 2025 07:56:13 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-property-thumbnail-06.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/snow-monkey-basics-property-thumbnail-06.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2647,7 +2647,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-property-thumbnail-06.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/snow-monkey-basics-property-thumbnail-06.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/04/snow-monkey-basics-property-thumbnail-06.jpg]]></wp:meta_value>
@@ -2662,7 +2662,7 @@
 		<link>http://snow-monkey-advanced-test.local/snow-monkey-basics-property-thumbnail-07/</link>
 		<pubDate>Sun, 06 Apr 2025 07:56:14 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-property-thumbnail-07.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/snow-monkey-basics-property-thumbnail-07.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2680,7 +2680,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-property-thumbnail-07.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/snow-monkey-basics-property-thumbnail-07.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/04/snow-monkey-basics-property-thumbnail-07.jpg]]></wp:meta_value>
@@ -2695,7 +2695,7 @@
 		<link>http://snow-monkey-advanced-test.local/snow-monkey-basics-property-thumbnail-08/</link>
 		<pubDate>Sun, 06 Apr 2025 07:56:15 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-property-thumbnail-08.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/snow-monkey-basics-property-thumbnail-08.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2713,7 +2713,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-property-thumbnail-08.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/snow-monkey-basics-property-thumbnail-08.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/04/snow-monkey-basics-property-thumbnail-08.jpg]]></wp:meta_value>
@@ -2728,7 +2728,7 @@
 		<link>http://snow-monkey-advanced-test.local/snow-monkey-basics-property-thumbnail-09/</link>
 		<pubDate>Sun, 06 Apr 2025 07:56:15 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-property-thumbnail-09.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/snow-monkey-basics-property-thumbnail-09.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2746,7 +2746,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-property-thumbnail-09.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/snow-monkey-basics-property-thumbnail-09.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/04/snow-monkey-basics-property-thumbnail-09.jpg]]></wp:meta_value>
@@ -2761,7 +2761,7 @@
 		<link>http://snow-monkey-advanced-test.local/snow-monkey-basics-property-thumbnail-10/</link>
 		<pubDate>Sun, 06 Apr 2025 07:56:16 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-property-thumbnail-10.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/snow-monkey-basics-property-thumbnail-10.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2779,7 +2779,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-property-thumbnail-10.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/snow-monkey-basics-property-thumbnail-10.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/04/snow-monkey-basics-property-thumbnail-10.jpg]]></wp:meta_value>
@@ -2794,7 +2794,7 @@
 		<link>http://snow-monkey-advanced-test.local/snow-monkey-basics-property-thumbnail-11/</link>
 		<pubDate>Sun, 06 Apr 2025 07:56:17 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-property-thumbnail-11.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/snow-monkey-basics-property-thumbnail-11.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2812,7 +2812,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-property-thumbnail-11.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/snow-monkey-basics-property-thumbnail-11.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/04/snow-monkey-basics-property-thumbnail-11.jpg]]></wp:meta_value>
@@ -2827,7 +2827,7 @@
 		<link>http://snow-monkey-advanced-test.local/snow-monkey-basics-property-thumbnail-12/</link>
 		<pubDate>Sun, 06 Apr 2025 07:56:18 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-property-thumbnail-12.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/snow-monkey-basics-property-thumbnail-12.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2845,7 +2845,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-property-thumbnail-12.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/snow-monkey-basics-property-thumbnail-12.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/04/snow-monkey-basics-property-thumbnail-12.jpg]]></wp:meta_value>
@@ -2860,7 +2860,7 @@
 		<link>http://snow-monkey-advanced-test.local/snow-monkey-basics-property-thumbnail-13/</link>
 		<pubDate>Sun, 06 Apr 2025 07:56:19 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-property-thumbnail-13.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/snow-monkey-basics-property-thumbnail-13.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2878,7 +2878,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-property-thumbnail-13.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/snow-monkey-basics-property-thumbnail-13.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/04/snow-monkey-basics-property-thumbnail-13.jpg]]></wp:meta_value>
@@ -2893,7 +2893,7 @@
 		<link>http://snow-monkey-advanced-test.local/snow-monkey-basics-property-thumbnail-14/</link>
 		<pubDate>Sun, 06 Apr 2025 07:56:19 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-property-thumbnail-14.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/snow-monkey-basics-property-thumbnail-14.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2911,7 +2911,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-property-thumbnail-14.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/snow-monkey-basics-property-thumbnail-14.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/04/snow-monkey-basics-property-thumbnail-14.jpg]]></wp:meta_value>
@@ -2926,7 +2926,7 @@
 		<link>http://snow-monkey-advanced-test.local/snow-monkey-basics-property-thumbnail-15/</link>
 		<pubDate>Sun, 06 Apr 2025 07:56:20 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-property-thumbnail-15.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/snow-monkey-basics-property-thumbnail-15.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[心に残る言葉が人を動かすとき暮らしの中にある静かな発見]]></excerpt:encoded>
@@ -2944,7 +2944,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-property-thumbnail-15.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/snow-monkey-basics-property-thumbnail-15.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/04/snow-monkey-basics-property-thumbnail-15.jpg]]></wp:meta_value>
@@ -2959,7 +2959,7 @@
 		<link>http://snow-monkey-advanced-test.local/snow-monkey-basics-property-thumbnail-16/</link>
 		<pubDate>Sun, 06 Apr 2025 07:56:21 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-property-thumbnail-16.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/snow-monkey-basics-property-thumbnail-16.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[心に残る言葉が人を動かすとき暮らしの中にある静かな発見]]></excerpt:encoded>
@@ -2977,7 +2977,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-property-thumbnail-16.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/snow-monkey-basics-property-thumbnail-16.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/04/snow-monkey-basics-property-thumbnail-16.jpg]]></wp:meta_value>
@@ -2992,7 +2992,7 @@
 		<link>http://snow-monkey-advanced-test.local/snow-monkey-basics-property-thumbnail-17/</link>
 		<pubDate>Sun, 06 Apr 2025 07:56:22 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-property-thumbnail-17.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/snow-monkey-basics-property-thumbnail-17.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[心に残る言葉が人を動かすとき暮らしの中にある静かな発見]]></excerpt:encoded>
@@ -3010,7 +3010,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-property-thumbnail-17.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/snow-monkey-basics-property-thumbnail-17.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/04/snow-monkey-basics-property-thumbnail-17.jpg]]></wp:meta_value>
@@ -3025,7 +3025,7 @@
 		<link>http://snow-monkey-advanced-test.local/snow-monkey-basics-property-thumbnail-18/</link>
 		<pubDate>Sun, 06 Apr 2025 07:56:23 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-property-thumbnail-18.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/snow-monkey-basics-property-thumbnail-18.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[心に残る言葉が人を動かすとき暮らしの中にある静かな発見]]></excerpt:encoded>
@@ -3043,7 +3043,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-property-thumbnail-18.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/snow-monkey-basics-property-thumbnail-18.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/04/snow-monkey-basics-property-thumbnail-18.jpg]]></wp:meta_value>
@@ -3058,7 +3058,7 @@
 		<link>http://snow-monkey-advanced-test.local/snow-monkey-basics-property-thumbnail-19/</link>
 		<pubDate>Sun, 06 Apr 2025 07:56:24 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-property-thumbnail-19.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/snow-monkey-basics-property-thumbnail-19.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[心に残る言葉が人を動かすとき暮らしの中にある静かな発見]]></excerpt:encoded>
@@ -3076,7 +3076,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-property-thumbnail-19.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/snow-monkey-basics-property-thumbnail-19.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/04/snow-monkey-basics-property-thumbnail-19.jpg]]></wp:meta_value>
@@ -3091,7 +3091,7 @@
 		<link>http://snow-monkey-advanced-test.local/snow-monkey-basics-property-thumbnail-20/</link>
 		<pubDate>Sun, 06 Apr 2025 07:56:24 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-property-thumbnail-20.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/snow-monkey-basics-property-thumbnail-20.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[心に残る言葉が人を動かすとき暮らしの中にある静かな発見]]></excerpt:encoded>
@@ -3109,7 +3109,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-property-thumbnail-20.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/snow-monkey-basics-property-thumbnail-20.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/04/snow-monkey-basics-property-thumbnail-20.jpg]]></wp:meta_value>
@@ -3637,7 +3637,7 @@
 		<link>http://snow-monkey-advanced-test.local/logo/</link>
 		<pubDate>Sun, 06 Apr 2025 11:18:21 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/logo.png</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/logo.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3655,7 +3655,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/logo.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/logo.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/04/logo.png]]></wp:meta_value>
@@ -3670,7 +3670,7 @@
 		<link>http://snow-monkey-advanced-test.local/logo-mobile/</link>
 		<pubDate>Sun, 06 Apr 2025 11:20:08 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/logo-mobile.png</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/logo-mobile.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3688,7 +3688,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/logo-mobile.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/logo-mobile.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/04/logo-mobile.png]]></wp:meta_value>
@@ -3703,7 +3703,7 @@
 		<link>http://snow-monkey-advanced-test.local/site-icon/</link>
 		<pubDate>Sun, 06 Apr 2025 11:20:27 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/site-icon.png</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/site-icon.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3721,7 +3721,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/site-icon.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/site-icon.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/04/site-icon.png]]></wp:meta_value>
@@ -4102,9 +4102,9 @@
 		<link>http://snow-monkey-advanced-test.local/site-icon/cropped-site-icon-png/</link>
 		<pubDate>Wed, 21 May 2025 00:57:11 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/cropped-site-icon.png</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/cropped-site-icon.png</guid>
 		<description></description>
-		<content:encoded><![CDATA[https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/cropped-site-icon.png]]></content:encoded>
+		<content:encoded><![CDATA[https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/cropped-site-icon.png]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>1191</wp:post_id>
 		<wp:post_date><![CDATA[2025-05-21 09:57:11]]></wp:post_date>
@@ -4120,7 +4120,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/cropped-site-icon.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/cropped-site-icon.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/04/cropped-site-icon.png]]></wp:meta_value>
@@ -4190,15 +4190,15 @@
 <!-- wp:snow-monkey-blocks/section {"contentsAlignment":"center","height":"wide","fixedBackgroundGradientColor":"linear-gradient(180deg,rgb(250,250,250) 0%,rgb(255,255,255) 100%)","topDividerLevel":50,"align":"full"} -->
 <div class="wp-block-snow-monkey-blocks-section alignfull smb-section smb-section--center smb-section--wide" style="--smb-section--fixed-background-image:linear-gradient(180deg,rgb(250,250,250) 0%,rgb(255,255,255) 100%);--smb-section--top-divider-level:50px"><div class="smb-section__fixed-background"><div class="smb-section__dividers"><div class="smb-section__divider smb-section__divider--top smb-section__divider--tilt"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" preserveAspectRatio="none"><path d="m0,50 L100,100 L0,100 z" stroke-width="0" fill="#fff"></path></svg></div></div></div><div class="smb-section__inner"><div class="c-container"><div class="smb-section__contents-wrapper smb-section__contents-wrapper--center"><div class="smb-section__header"><div class="smb-section__subtitle">Service</div><h2 class="smb-section__title">事業内容</h2></div><div class="smb-section__body"><!-- wp:snow-monkey-blocks/items {"lg":3} -->
 <div class="wp-block-snow-monkey-blocks-items smb-items"><div class="c-row c-row--margin" data-columns="1" data-md-columns="1" data-lg-columns="3"><!-- wp:snow-monkey-blocks/items-item-standard {"displayImage":true,"imageID":117} -->
-<div class="wp-block-snow-monkey-blocks-items-item-standard c-row__col"><div class="smb-items__item"><div class="smb-items__item__figure"><img src="https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-post-thumbnail-21.jpg" alt="" width="2304" height="1792" class="wp-image-117"/></div><div class="smb-items__item__body"><div class="smb-items__item__title">不動産売買<br></div><div class="smb-items__item__content">新築・中古戸建てのご紹介<br>分譲マンションの仲介<br>土地の購入・活用提案</div></div></div></div>
+<div class="wp-block-snow-monkey-blocks-items-item-standard c-row__col"><div class="smb-items__item"><div class="smb-items__item__figure"><img src="https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/snow-monkey-basics-post-thumbnail-21.jpg" alt="" width="2304" height="1792" class="wp-image-117"/></div><div class="smb-items__item__body"><div class="smb-items__item__title">不動産売買<br></div><div class="smb-items__item__content">新築・中古戸建てのご紹介<br>分譲マンションの仲介<br>土地の購入・活用提案</div></div></div></div>
 <!-- /wp:snow-monkey-blocks/items-item-standard -->
 
 <!-- wp:snow-monkey-blocks/items-item-standard {"displayImage":true,"imageID":100} -->
-<div class="wp-block-snow-monkey-blocks-items-item-standard c-row__col"><div class="smb-items__item"><div class="smb-items__item__figure"><img src="https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-post-thumbnail-04.jpg" alt="" width="2304" height="1792" class="wp-image-100"/></div><div class="smb-items__item__body"><div class="smb-items__item__title">不動産売却サポート</div><div class="smb-items__item__content">無料査定<br>売却戦略のご提案<br>税務・法律相談の連携</div></div></div></div>
+<div class="wp-block-snow-monkey-blocks-items-item-standard c-row__col"><div class="smb-items__item"><div class="smb-items__item__figure"><img src="https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/snow-monkey-basics-post-thumbnail-04.jpg" alt="" width="2304" height="1792" class="wp-image-100"/></div><div class="smb-items__item__body"><div class="smb-items__item__title">不動産売却サポート</div><div class="smb-items__item__content">無料査定<br>売却戦略のご提案<br>税務・法律相談の連携</div></div></div></div>
 <!-- /wp:snow-monkey-blocks/items-item-standard -->
 
 <!-- wp:snow-monkey-blocks/items-item-standard {"displayImage":true,"imageID":109} -->
-<div class="wp-block-snow-monkey-blocks-items-item-standard c-row__col"><div class="smb-items__item"><div class="smb-items__item__figure"><img src="https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-post-thumbnail-13.jpg" alt="" width="2304" height="1792" class="wp-image-109"/></div><div class="smb-items__item__body"><div class="smb-items__item__title">リフォーム・リノベーション</div><div class="smb-items__item__content">部分リフォームからフルリノベまで対応<br>バリアフリー対応や省エネ改修も可能</div></div></div></div>
+<div class="wp-block-snow-monkey-blocks-items-item-standard c-row__col"><div class="smb-items__item"><div class="smb-items__item__figure"><img src="https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/snow-monkey-basics-post-thumbnail-13.jpg" alt="" width="2304" height="1792" class="wp-image-109"/></div><div class="smb-items__item__body"><div class="smb-items__item__title">リフォーム・リノベーション</div><div class="smb-items__item__content">部分リフォームからフルリノベまで対応<br>バリアフリー対応や省エネ改修も可能</div></div></div></div>
 <!-- /wp:snow-monkey-blocks/items-item-standard --></div></div>
 <!-- /wp:snow-monkey-blocks/items -->
 
@@ -4246,7 +4246,7 @@
 <!-- /wp:snow-monkey-blocks/section -->
 
 <!-- wp:snow-monkey-blocks/section-with-bgimage {"lgImageID":1027,"lgImageMediaType":"image","maskColor":"var(\u002d\u002daccent-color)","maskOpacity":0.20000000000000001,"textColor":"var(\u002d\u002d_color-white)","titleTagName":"none","align":"full"} -->
-<div class="wp-block-snow-monkey-blocks-section-with-bgimage alignfull smb-section smb-section-with-bgimage smb-section--fit" style="--smb-section--color:var(--_color-white);--smb-section-with-bgimage--mask-color:var(--accent-color);--smb-section-with-bgimage--mask-opacity:0.2"><div class="smb-section-with-bgimage__bgimage smb-section-with-bgimage__bgimage--lg"><div class="smb-section-with-bgimage__mask"></div><img src="https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-property-thumbnail-05.jpg" alt="" width="2304" height="1792" class="wp-image-1027"/></div><div class="smb-section__inner"><div class="c-container"><div class="smb-section__contents-wrapper"><div class="smb-section__body"><!-- wp:heading {"textAlign":"center","className":"is-style-plain"} -->
+<div class="wp-block-snow-monkey-blocks-section-with-bgimage alignfull smb-section smb-section-with-bgimage smb-section--fit" style="--smb-section--color:var(--_color-white);--smb-section-with-bgimage--mask-color:var(--accent-color);--smb-section-with-bgimage--mask-opacity:0.2"><div class="smb-section-with-bgimage__bgimage smb-section-with-bgimage__bgimage--lg"><div class="smb-section-with-bgimage__mask"></div><img src="https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/snow-monkey-basics-property-thumbnail-05.jpg" alt="" width="2304" height="1792" class="wp-image-1027"/></div><div class="smb-section__inner"><div class="c-container"><div class="smb-section__contents-wrapper"><div class="smb-section__body"><!-- wp:heading {"textAlign":"center","className":"is-style-plain"} -->
 <h2 class="wp-block-heading has-text-align-center is-style-plain">ご相談はいつでもお気軽に</h2>
 <!-- /wp:heading -->
 
@@ -4411,7 +4411,7 @@
 
 <!-- wp:paragraph -->
 <p>「長く安心して暮らせるお住まい」を一緒に見つけましょう！</p>
-<!-- /wp:paragraph --></div></div></div><div class="c-row__col c-row__col--1-1 c-row__col--lg-1-4"><div class="smb-media-text__figure"><img src="https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-page-thumbnail-staff-01.jpg" alt="" width="2304" height="1792" class="wp-image-174"/></div></div></div></div>
+<!-- /wp:paragraph --></div></div></div><div class="c-row__col c-row__col--1-1 c-row__col--lg-1-4"><div class="smb-media-text__figure"><img src="https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/snow-monkey-basics-page-thumbnail-staff-01.jpg" alt="" width="2304" height="1792" class="wp-image-174"/></div></div></div></div>
 <!-- /wp:snow-monkey-blocks/media-text -->
 
 <!-- wp:snow-monkey-blocks/media-text {"titleTagName":"h3","mediaId":175,"mediaType":"image","mediaPosition":"left","mediaColumnSize":"25"} -->
@@ -4421,7 +4421,7 @@
 
 <!-- wp:paragraph -->
 <p>休日は地元のグルメ開拓が趣味で、おすすめのお店情報も豊富です！</p>
-<!-- /wp:paragraph --></div></div></div><div class="c-row__col c-row__col--1-1 c-row__col--lg-1-4"><div class="smb-media-text__figure"><img src="https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-page-thumbnail-staff-02.jpg" alt="" width="2304" height="1792" class="wp-image-175"/></div></div></div></div>
+<!-- /wp:paragraph --></div></div></div><div class="c-row__col c-row__col--1-1 c-row__col--lg-1-4"><div class="smb-media-text__figure"><img src="https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/snow-monkey-basics-page-thumbnail-staff-02.jpg" alt="" width="2304" height="1792" class="wp-image-175"/></div></div></div></div>
 <!-- /wp:snow-monkey-blocks/media-text -->
 
 <!-- wp:snow-monkey-blocks/media-text {"titleTagName":"h3","mediaId":176,"mediaType":"image","mediaPosition":"left","mediaColumnSize":"25"} -->
@@ -4431,7 +4431,7 @@
 
 <!-- wp:paragraph -->
 <p>「ちょっとしたことでも遠慮なく聞ける」そんな存在でありたいと思っています。</p>
-<!-- /wp:paragraph --></div></div></div><div class="c-row__col c-row__col--1-1 c-row__col--lg-1-4"><div class="smb-media-text__figure"><img src="https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-page-thumbnail-staff-03.jpg" alt="" width="2304" height="1792" class="wp-image-176"/></div></div></div></div>
+<!-- /wp:paragraph --></div></div></div><div class="c-row__col c-row__col--1-1 c-row__col--lg-1-4"><div class="smb-media-text__figure"><img src="https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/snow-monkey-basics-page-thumbnail-staff-03.jpg" alt="" width="2304" height="1792" class="wp-image-176"/></div></div></div></div>
 <!-- /wp:snow-monkey-blocks/media-text -->
 
 <!-- wp:snow-monkey-blocks/media-text {"titleTagName":"h3","mediaId":177,"mediaType":"image","mediaPosition":"left","mediaColumnSize":"25"} -->
@@ -4441,7 +4441,7 @@
 
 <!-- wp:paragraph -->
 <p>「“住みたい”をカタチにする」をモットーに、柔軟にサポートいたします。</p>
-<!-- /wp:paragraph --></div></div></div><div class="c-row__col c-row__col--1-1 c-row__col--lg-1-4"><div class="smb-media-text__figure"><img src="https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-page-thumbnail-staff-04.jpg" alt="" width="2304" height="1792" class="wp-image-177"/></div></div></div></div>
+<!-- /wp:paragraph --></div></div></div><div class="c-row__col c-row__col--1-1 c-row__col--lg-1-4"><div class="smb-media-text__figure"><img src="https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/snow-monkey-basics-page-thumbnail-staff-04.jpg" alt="" width="2304" height="1792" class="wp-image-177"/></div></div></div></div>
 <!-- /wp:snow-monkey-blocks/media-text --></div></div></div></div></div>
 <!-- /wp:snow-monkey-blocks/section -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -4478,17 +4478,17 @@
 
 <!-- wp:paragraph -->
 <p>購入・売却からリフォームまで、ワンストップでご相談いただけます。</p>
-<!-- /wp:paragraph --></div></div></div><div class="c-row__col c-row__col--1-1 c-row__col--lg-1-2"><div class="smb-section-break-the-grid__figure smb-section-break-the-grid__figure--w-40"><img src="https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-post-thumbnail-38.jpg" alt="" width="2304" height="1792" class="wp-image-134"/></div></div></div></div></div></div></div>
+<!-- /wp:paragraph --></div></div></div><div class="c-row__col c-row__col--1-1 c-row__col--lg-1-2"><div class="smb-section-break-the-grid__figure smb-section-break-the-grid__figure--w-40"><img src="https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/snow-monkey-basics-post-thumbnail-38.jpg" alt="" width="2304" height="1792" class="wp-image-134"/></div></div></div></div></div></div></div>
 <!-- /wp:snow-monkey-blocks/section-break-the-grid -->
 
 <!-- wp:snow-monkey-blocks/section {"height":"full","align":"full"} -->
 <div class="wp-block-snow-monkey-blocks-section alignfull smb-section smb-section--full"><div class="smb-section__inner"><div class="c-container"><div class="smb-section__contents-wrapper"><div class="smb-section__header"><div class="smb-section__subtitle">Buying support</div><h2 class="smb-section__title">不動産の購入サポート</h2></div><div class="smb-section__body"><!-- wp:snow-monkey-blocks/items -->
 <div class="wp-block-snow-monkey-blocks-items smb-items"><div class="c-row c-row--margin" data-columns="1" data-md-columns="1" data-lg-columns="2"><!-- wp:snow-monkey-blocks/items-item-block-link {"displayImage":true,"imageID":186,"displayBtn":true,"btnSize":"wider","btnBorderRadius":"0px"} -->
-<div class="wp-block-snow-monkey-blocks-items-item-block-link c-row__col"><div class="smb-items__item smb-items__item--block-link"><div class="smb-items__item__figure"><img src="https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-service-01.jpg" alt="" width="2304" height="1792" class="wp-image-186"/></div><div class="smb-items__item__body"><div class="smb-items__item__title">物件探しのお手伝い</div><div class="smb-items__item__content">希望条件やご予算を丁寧にヒアリングし、ぴったりの物件をご提案します。<br>周辺環境や将来的な資産価値なども踏まえ、安心できる住まい探しをサポートします。</div><div class="smb-items__item__action"><a class="smb-items__item__btn smb-btn smb-btn--wider" style="--smb-btn--border-radius:0px" href="http://snow-monkey-basics.local/property/"><span class="smb-btn__label">物件を探す</span></a></div></div></div></div>
+<div class="wp-block-snow-monkey-blocks-items-item-block-link c-row__col"><div class="smb-items__item smb-items__item--block-link"><div class="smb-items__item__figure"><img src="https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/snow-monkey-basics-service-01.jpg" alt="" width="2304" height="1792" class="wp-image-186"/></div><div class="smb-items__item__body"><div class="smb-items__item__title">物件探しのお手伝い</div><div class="smb-items__item__content">希望条件やご予算を丁寧にヒアリングし、ぴったりの物件をご提案します。<br>周辺環境や将来的な資産価値なども踏まえ、安心できる住まい探しをサポートします。</div><div class="smb-items__item__action"><a class="smb-items__item__btn smb-btn smb-btn--wider" style="--smb-btn--border-radius:0px" href="http://snow-monkey-basics.local/property/"><span class="smb-btn__label">物件を探す</span></a></div></div></div></div>
 <!-- /wp:snow-monkey-blocks/items-item-block-link -->
 
 <!-- wp:snow-monkey-blocks/items-item-block-link {"displayImage":true,"imageID":187,"displayBtn":true,"btnSize":"wider","btnBorderRadius":"0px"} -->
-<div class="wp-block-snow-monkey-blocks-items-item-block-link c-row__col"><div class="smb-items__item smb-items__item--block-link"><div class="smb-items__item__figure"><img src="https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-service-02.jpg" alt="" width="2304" height="1792" class="wp-image-187"/></div><div class="smb-items__item__body"><div class="smb-items__item__title">資金計画・住宅ローンのご相談</div><div class="smb-items__item__content">初めての住宅ローンでも安心できるよう、<br>金融機関との連携を含めて、シミュレーションや手続きをしっかりサポートします。</div><div class="smb-items__item__action"><a class="smb-items__item__btn smb-btn smb-btn--wider" style="--smb-btn--border-radius:0px" href="http://snow-monkey-basics.local/category/loan-and-budget/"><span class="smb-btn__label">資金計画に関する記事を見る</span></a></div></div></div></div>
+<div class="wp-block-snow-monkey-blocks-items-item-block-link c-row__col"><div class="smb-items__item smb-items__item--block-link"><div class="smb-items__item__figure"><img src="https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/snow-monkey-basics-service-02.jpg" alt="" width="2304" height="1792" class="wp-image-187"/></div><div class="smb-items__item__body"><div class="smb-items__item__title">資金計画・住宅ローンのご相談</div><div class="smb-items__item__content">初めての住宅ローンでも安心できるよう、<br>金融機関との連携を含めて、シミュレーションや手続きをしっかりサポートします。</div><div class="smb-items__item__action"><a class="smb-items__item__btn smb-btn smb-btn--wider" style="--smb-btn--border-radius:0px" href="http://snow-monkey-basics.local/category/loan-and-budget/"><span class="smb-btn__label">資金計画に関する記事を見る</span></a></div></div></div></div>
 <!-- /wp:snow-monkey-blocks/items-item-block-link --></div></div>
 <!-- /wp:snow-monkey-blocks/items --></div></div></div></div></div>
 <!-- /wp:snow-monkey-blocks/section -->
@@ -4496,11 +4496,11 @@
 <!-- wp:snow-monkey-blocks/section {"height":"full","align":"full"} -->
 <div class="wp-block-snow-monkey-blocks-section alignfull smb-section smb-section--full"><div class="smb-section__inner"><div class="c-container"><div class="smb-section__contents-wrapper"><div class="smb-section__header"><div class="smb-section__subtitle">Selling support</div><h2 class="smb-section__title">不動産の売却サポート</h2></div><div class="smb-section__body"><!-- wp:snow-monkey-blocks/items -->
 <div class="wp-block-snow-monkey-blocks-items smb-items"><div class="c-row c-row--margin" data-columns="1" data-md-columns="1" data-lg-columns="2"><!-- wp:snow-monkey-blocks/items-item-block-link {"displayImage":true,"imageID":188,"btnSize":"wider","btnBorderRadius":"0px"} -->
-<div class="wp-block-snow-monkey-blocks-items-item-block-link c-row__col"><div class="smb-items__item smb-items__item--block-link"><div class="smb-items__item__figure"><img src="https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-service-03.jpg" alt="" width="2304" height="1792" class="wp-image-188"/></div><div class="smb-items__item__body"><div class="smb-items__item__title">無料査定と売却プランのご提案</div><div class="smb-items__item__content">お住まいの価値を正確に把握し、地域相場と照らし合わせて最適な売却プランをご提案します。秘密厳守・無料で対応いたします。</div><div class="smb-items__item__action"><a href="http://snow-monkey-basics.local/property/"><span class="screen-reader-text">物件を探す</span></a></div></div></div></div>
+<div class="wp-block-snow-monkey-blocks-items-item-block-link c-row__col"><div class="smb-items__item smb-items__item--block-link"><div class="smb-items__item__figure"><img src="https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/snow-monkey-basics-service-03.jpg" alt="" width="2304" height="1792" class="wp-image-188"/></div><div class="smb-items__item__body"><div class="smb-items__item__title">無料査定と売却プランのご提案</div><div class="smb-items__item__content">お住まいの価値を正確に把握し、地域相場と照らし合わせて最適な売却プランをご提案します。秘密厳守・無料で対応いたします。</div><div class="smb-items__item__action"><a href="http://snow-monkey-basics.local/property/"><span class="screen-reader-text">物件を探す</span></a></div></div></div></div>
 <!-- /wp:snow-monkey-blocks/items-item-block-link -->
 
 <!-- wp:snow-monkey-blocks/items-item-block-link {"displayImage":true,"imageID":189,"btnSize":"wider","btnBorderRadius":"0px"} -->
-<div class="wp-block-snow-monkey-blocks-items-item-block-link c-row__col"><div class="smb-items__item smb-items__item--block-link"><div class="smb-items__item__figure"><img src="https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-service-04.jpg" alt="" width="2304" height="1792" class="wp-image-189"/></div><div class="smb-items__item__body"><div class="smb-items__item__title">売却後のサポートも安心</div><div class="smb-items__item__content">契約後のお手続きや引き渡し、必要に応じて税務相談など、<br>売却が終わった後も責任を持ってしっかりサポートします。</div><div class="smb-items__item__action"><a href="http://snow-monkey-basics.local/category/loan-and-budget/"><span class="screen-reader-text">資金計画に関する記事を見る</span></a></div></div></div></div>
+<div class="wp-block-snow-monkey-blocks-items-item-block-link c-row__col"><div class="smb-items__item smb-items__item--block-link"><div class="smb-items__item__figure"><img src="https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/snow-monkey-basics-service-04.jpg" alt="" width="2304" height="1792" class="wp-image-189"/></div><div class="smb-items__item__body"><div class="smb-items__item__title">売却後のサポートも安心</div><div class="smb-items__item__content">契約後のお手続きや引き渡し、必要に応じて税務相談など、<br>売却が終わった後も責任を持ってしっかりサポートします。</div><div class="smb-items__item__action"><a href="http://snow-monkey-basics.local/category/loan-and-budget/"><span class="screen-reader-text">資金計画に関する記事を見る</span></a></div></div></div></div>
 <!-- /wp:snow-monkey-blocks/items-item-block-link --></div></div>
 <!-- /wp:snow-monkey-blocks/items --></div></div></div></div></div>
 <!-- /wp:snow-monkey-blocks/section -->
@@ -4508,17 +4508,17 @@
 <!-- wp:snow-monkey-blocks/section {"height":"full","align":"full"} -->
 <div class="wp-block-snow-monkey-blocks-section alignfull smb-section smb-section--full"><div class="smb-section__inner"><div class="c-container"><div class="smb-section__contents-wrapper"><div class="smb-section__header"><div class="smb-section__subtitle">Renovation &amp; Remodeling</div><h2 class="smb-section__title">リフォーム・リノベーション</h2></div><div class="smb-section__body"><!-- wp:snow-monkey-blocks/items -->
 <div class="wp-block-snow-monkey-blocks-items smb-items"><div class="c-row c-row--margin" data-columns="1" data-md-columns="1" data-lg-columns="2"><!-- wp:snow-monkey-blocks/items-item-block-link {"displayImage":true,"imageID":190,"btnSize":"wider","btnBorderRadius":"0px"} -->
-<div class="wp-block-snow-monkey-blocks-items-item-block-link c-row__col"><div class="smb-items__item smb-items__item--block-link"><div class="smb-items__item__figure"><img src="https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-service-05.jpg" alt="" width="2304" height="1792" class="wp-image-190"/></div><div class="smb-items__item__body"><div class="smb-items__item__title">理想の空間づくりをトータルプロデュース</div><div class="smb-items__item__content">中古物件のリノベーションやご自宅のリフォームもお任せください。<br>専属のプランナーが、デザイン・機能・予算のバランスを見ながらご提案いたします。</div><div class="smb-items__item__action"><a href="http://snow-monkey-basics.local/property/"><span class="screen-reader-text">物件を探す</span></a></div></div></div></div>
+<div class="wp-block-snow-monkey-blocks-items-item-block-link c-row__col"><div class="smb-items__item smb-items__item--block-link"><div class="smb-items__item__figure"><img src="https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/snow-monkey-basics-service-05.jpg" alt="" width="2304" height="1792" class="wp-image-190"/></div><div class="smb-items__item__body"><div class="smb-items__item__title">理想の空間づくりをトータルプロデュース</div><div class="smb-items__item__content">中古物件のリノベーションやご自宅のリフォームもお任せください。<br>専属のプランナーが、デザイン・機能・予算のバランスを見ながらご提案いたします。</div><div class="smb-items__item__action"><a href="http://snow-monkey-basics.local/property/"><span class="screen-reader-text">物件を探す</span></a></div></div></div></div>
 <!-- /wp:snow-monkey-blocks/items-item-block-link -->
 
 <!-- wp:snow-monkey-blocks/items-item-block-link {"displayImage":true,"imageID":191,"btnSize":"wider","btnBorderRadius":"0px"} -->
-<div class="wp-block-snow-monkey-blocks-items-item-block-link c-row__col"><div class="smb-items__item smb-items__item--block-link"><div class="smb-items__item__figure"><img src="https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-service-06.jpg" alt="" width="2304" height="1792" class="wp-image-191"/></div><div class="smb-items__item__body"><div class="smb-items__item__title">バリアフリーや省エネにも対応<br></div><div class="smb-items__item__content">将来を見据えたバリアフリー改修や、断熱・省エネリフォームなど、暮らしの快適性とコストパフォーマンスを高めるご提案が可能です。</div><div class="smb-items__item__action"><a href="http://snow-monkey-basics.local/category/loan-and-budget/"><span class="screen-reader-text">資金計画に関する記事を見る</span></a></div></div></div></div>
+<div class="wp-block-snow-monkey-blocks-items-item-block-link c-row__col"><div class="smb-items__item smb-items__item--block-link"><div class="smb-items__item__figure"><img src="https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/snow-monkey-basics-service-06.jpg" alt="" width="2304" height="1792" class="wp-image-191"/></div><div class="smb-items__item__body"><div class="smb-items__item__title">バリアフリーや省エネにも対応<br></div><div class="smb-items__item__content">将来を見据えたバリアフリー改修や、断熱・省エネリフォームなど、暮らしの快適性とコストパフォーマンスを高めるご提案が可能です。</div><div class="smb-items__item__action"><a href="http://snow-monkey-basics.local/category/loan-and-budget/"><span class="screen-reader-text">資金計画に関する記事を見る</span></a></div></div></div></div>
 <!-- /wp:snow-monkey-blocks/items-item-block-link --></div></div>
 <!-- /wp:snow-monkey-blocks/items --></div></div></div></div></div>
 <!-- /wp:snow-monkey-blocks/section -->
 
 <!-- wp:snow-monkey-blocks/section-with-bgimage {"lgImageID":1027,"lgImageMediaType":"image","maskColor":"var(\u002d\u002daccent-color)","maskOpacity":0.20000000000000001,"textColor":"var(\u002d\u002d_color-white)","titleTagName":"none","align":"full"} -->
-<div class="wp-block-snow-monkey-blocks-section-with-bgimage alignfull smb-section smb-section-with-bgimage smb-section--fit" style="--smb-section--color:var(--_color-white);--smb-section-with-bgimage--mask-color:var(--accent-color);--smb-section-with-bgimage--mask-opacity:0.2"><div class="smb-section-with-bgimage__bgimage smb-section-with-bgimage__bgimage--lg"><div class="smb-section-with-bgimage__mask"></div><img src="https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-property-thumbnail-05.jpg" alt="" width="2304" height="1792" class="wp-image-1027"/></div><div class="smb-section__inner"><div class="c-container"><div class="smb-section__contents-wrapper"><div class="smb-section__body"><!-- wp:heading {"textAlign":"center","className":"is-style-plain"} -->
+<div class="wp-block-snow-monkey-blocks-section-with-bgimage alignfull smb-section smb-section-with-bgimage smb-section--fit" style="--smb-section--color:var(--_color-white);--smb-section-with-bgimage--mask-color:var(--accent-color);--smb-section-with-bgimage--mask-opacity:0.2"><div class="smb-section-with-bgimage__bgimage smb-section-with-bgimage__bgimage--lg"><div class="smb-section-with-bgimage__mask"></div><img src="https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/snow-monkey-basics-property-thumbnail-05.jpg" alt="" width="2304" height="1792" class="wp-image-1027"/></div><div class="smb-section__inner"><div class="c-container"><div class="smb-section__contents-wrapper"><div class="smb-section__body"><!-- wp:heading {"textAlign":"center","className":"is-style-plain"} -->
 <h2 class="wp-block-heading has-text-align-center is-style-plain">ご相談はいつでもお気軽に</h2>
 <!-- /wp:heading -->
 
@@ -4917,7 +4917,7 @@
 		<guid isPermaLink="false">http://snow-monkey-basics.local/?page_id=2</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:snow-monkey-blocks/hero-header {"mediaId":1041,"mediaType":"image","figureGridColumnStart":"3","bodyAlignSelf":"center","bodyJustifySelf":"start","bodyGridColumnEnd":"-2","bodyGridRowEnd":"-2","bodyMaxWidth":"50rem","bodyPadding":{"top":"var:preset|spacing|40","bottom":"var:preset|spacing|40","left":"var:preset|spacing|40","right":"var:preset|spacing|40"},"align":"full"} -->
-<div class="wp-block-snow-monkey-blocks-hero-header alignfull smb-hero-header" style="--smb-hero-header--columns:12;--smb-hero-header--rows:12;--smb-hero-header--figure-grid-column-start:3;--smb-hero-header--figure-grid-column-end:-1;--smb-hero-header--figure-grid-row-start:1;--smb-hero-header--figure-grid-row-end:-1;--smb-hero-header--figure-aspect-ratio:16 / 9;--smb-hero-header--body-align-self:center;--smb-hero-header--body-justify-self:start;--smb-hero-header--body-grid-column-start:1;--smb-hero-header--body-grid-column-end:-2;--smb-hero-header--body-grid-row-start:1;--smb-hero-header--body-grid-row-end:-2;--smb-hero-header--body-max-width:50rem;--smb-hero-header--body-padding-top:var(--wp--preset--spacing--40);--smb-hero-header--body-padding-right:var(--wp--preset--spacing--40);--smb-hero-header--body-padding-bottom:var(--wp--preset--spacing--40);--smb-hero-header--body-padding-left:var(--wp--preset--spacing--40)"><div class="smb-hero-header__figure"><img src="https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-property-thumbnail-19.jpg" alt="" width="2304" height="1792" class="wp-image-1041"/></div><div class="smb-hero-header__body"><!-- wp:snow-monkey-blocks/box {"backgroundColor":"var(\u002d\u002d_color-white)","borderStyle":"none","borderWidth":"0px","borderRadius":"0px","opacity":0.80000000000000004,"style":{"spacing":{"padding":{"top":"var:preset|spacing|50","bottom":"var:preset|spacing|50","left":"var:preset|spacing|50","right":"var:preset|spacing|50"}}}} -->
+<div class="wp-block-snow-monkey-blocks-hero-header alignfull smb-hero-header" style="--smb-hero-header--columns:12;--smb-hero-header--rows:12;--smb-hero-header--figure-grid-column-start:3;--smb-hero-header--figure-grid-column-end:-1;--smb-hero-header--figure-grid-row-start:1;--smb-hero-header--figure-grid-row-end:-1;--smb-hero-header--figure-aspect-ratio:16 / 9;--smb-hero-header--body-align-self:center;--smb-hero-header--body-justify-self:start;--smb-hero-header--body-grid-column-start:1;--smb-hero-header--body-grid-column-end:-2;--smb-hero-header--body-grid-row-start:1;--smb-hero-header--body-grid-row-end:-2;--smb-hero-header--body-max-width:50rem;--smb-hero-header--body-padding-top:var(--wp--preset--spacing--40);--smb-hero-header--body-padding-right:var(--wp--preset--spacing--40);--smb-hero-header--body-padding-bottom:var(--wp--preset--spacing--40);--smb-hero-header--body-padding-left:var(--wp--preset--spacing--40)"><div class="smb-hero-header__figure"><img src="https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/snow-monkey-basics-property-thumbnail-19.jpg" alt="" width="2304" height="1792" class="wp-image-1041"/></div><div class="smb-hero-header__body"><!-- wp:snow-monkey-blocks/box {"backgroundColor":"var(\u002d\u002d_color-white)","borderStyle":"none","borderWidth":"0px","borderRadius":"0px","opacity":0.80000000000000004,"style":{"spacing":{"padding":{"top":"var:preset|spacing|50","bottom":"var:preset|spacing|50","left":"var:preset|spacing|50","right":"var:preset|spacing|50"}}}} -->
 <div class="wp-block-snow-monkey-blocks-box smb-box" style="padding-top:var(--wp--preset--spacing--50);padding-right:var(--wp--preset--spacing--50);padding-bottom:var(--wp--preset--spacing--50);padding-left:var(--wp--preset--spacing--50);--smb-box--border-radius:0px;--smb-box--background-color:var(--_color-white);--smb-box--background-opacity:0.8;--smb-box--border-style:none;--smb-box--border-width:0px"><div class="smb-box__background"></div><div class="smb-box__body"><!-- wp:heading {"className":"is-style-plain","fontSize":"sm-3xl"} -->
 <h2 class="wp-block-heading is-style-plain has-sm-3-xl-font-size">理想の住まいを見つけよう<br>地域密着の不動産パートナー</h2>
 <!-- /wp:heading -->
@@ -4952,7 +4952,7 @@
 <div class="wp-block-snow-monkey-blocks-buttons smb-buttons"><!-- wp:snow-monkey-blocks/btn {"modifier":"wider","borderRadius":"0px","className":"is-style-ghost"} -->
 <div class="wp-block-snow-monkey-blocks-btn smb-btn-wrapper smb-btn-wrapper--wider is-style-ghost"><a class="smb-btn smb-btn--wider" href="http://snow-monkey-basics.local/about/" style="--smb-btn--border-radius:0px"><span class="smb-btn__label">会社案内</span></a></div>
 <!-- /wp:snow-monkey-blocks/btn --></div>
-<!-- /wp:snow-monkey-blocks/buttons --></div></div></div><div class="c-row__col c-row__col--1-1 c-row__col--lg-1-2"><div class="smb-media-text__figure"><img src="https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-page-thumbnail-staff.jpg" alt="" width="2304" height="1792" class="wp-image-164"/></div></div></div></div>
+<!-- /wp:snow-monkey-blocks/buttons --></div></div></div><div class="c-row__col c-row__col--1-1 c-row__col--lg-1-2"><div class="smb-media-text__figure"><img src="https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/snow-monkey-basics-page-thumbnail-staff.jpg" alt="" width="2304" height="1792" class="wp-image-164"/></div></div></div></div>
 <!-- /wp:snow-monkey-blocks/media-text --></div></div></div></div></section>
 <!-- /wp:snow-monkey-blocks/section -->
 
@@ -4961,11 +4961,11 @@
 <div class="wp-block-group"><!-- wp:snow-monkey-blocks/section-side-heading {"backgroundColor":"#e6f6ff","backgroundHorizontalPosition":60,"backgroundTexture":"dots2","backgroundTextureOpacity":0.20000000000000001,"backgroundTextureUrl":"http://snow-monkey-basics.local/wp-content/plugins/snow-monkey-blocks/dist/blocks/section/img/dots2.png"} -->
 <div class="wp-block-snow-monkey-blocks-section-side-heading smb-section smb-section-side-heading smb-section--fit" style="--smb-section--background-color:#e6f6ff;--smb-section--background-transform:translate(60%, 0%);--smb-section--background-texture-image:url(http://snow-monkey-basics.local/wp-content/plugins/snow-monkey-blocks/dist/blocks/section/img/dots2.png);--smb-section--background-texture-opacity:0.2"><div class="smb-section__fixed-background"><div class="smb-section__background"><div class="smb-section__background__texture"></div></div></div><div class="smb-section__inner"><div class="c-container"><div class="smb-section__contents-wrapper"><div class="c-row c-row--md-margin"><div class="c-row__col c-row__col--1-1 c-row__col--md-1-3"><div class="smb-section__header smb-section-side-heading__header"><div class="smb-section__subtitle smb-section-side-heading__subtitle"><span style="color: #a5d2ec" class="sme-text-color">Buying Support</span></div><h2 class="smb-section__title smb-section-side-heading__title">不動産の購入サポート</h2><div class="smb-section__lede-wrapper smb-section-side-heading__lede-wrapper"><div class="smb-section__lede smb-section-side-heading__lede">はじめての不動産購入でも安心して進められるよう、私たちは物件選びから契約、住宅ローンや資金計画のご相談まで丁寧にサポートいたします。お客様のライフスタイルや将来設計に合わせたご提案を行い、理想の住まい探しをしっかりとお手伝いします。</div></div></div></div><div class="c-row__col c-row__col--1-1 c-row__col--md-2-3"><div class="smb-section__body smb-section-side-heading__body"><!-- wp:snow-monkey-blocks/items -->
 <div class="wp-block-snow-monkey-blocks-items smb-items"><div class="c-row c-row--margin" data-columns="1" data-md-columns="1" data-lg-columns="2"><!-- wp:snow-monkey-blocks/items-item-standard {"displayImage":true,"imageID":186} -->
-<div class="wp-block-snow-monkey-blocks-items-item-standard c-row__col"><div class="smb-items__item"><div class="smb-items__item__figure"><img src="https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-service-01.jpg" alt="" width="2304" height="1792" class="wp-image-186"/></div><div class="smb-items__item__body"><div class="smb-items__item__title">物件探しのお手伝い</div></div></div></div>
+<div class="wp-block-snow-monkey-blocks-items-item-standard c-row__col"><div class="smb-items__item"><div class="smb-items__item__figure"><img src="https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/snow-monkey-basics-service-01.jpg" alt="" width="2304" height="1792" class="wp-image-186"/></div><div class="smb-items__item__body"><div class="smb-items__item__title">物件探しのお手伝い</div></div></div></div>
 <!-- /wp:snow-monkey-blocks/items-item-standard -->
 
 <!-- wp:snow-monkey-blocks/items-item-standard {"displayImage":true,"imageID":187} -->
-<div class="wp-block-snow-monkey-blocks-items-item-standard c-row__col"><div class="smb-items__item"><div class="smb-items__item__figure"><img src="https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-service-02.jpg" alt="" width="2304" height="1792" class="wp-image-187"/></div><div class="smb-items__item__body"><div class="smb-items__item__title">資金計画・住宅ローンのご相談</div></div></div></div>
+<div class="wp-block-snow-monkey-blocks-items-item-standard c-row__col"><div class="smb-items__item"><div class="smb-items__item__figure"><img src="https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/snow-monkey-basics-service-02.jpg" alt="" width="2304" height="1792" class="wp-image-187"/></div><div class="smb-items__item__body"><div class="smb-items__item__title">資金計画・住宅ローンのご相談</div></div></div></div>
 <!-- /wp:snow-monkey-blocks/items-item-standard --></div></div>
 <!-- /wp:snow-monkey-blocks/items --></div></div></div></div></div></div></div>
 <!-- /wp:snow-monkey-blocks/section-side-heading -->
@@ -4973,11 +4973,11 @@
 <!-- wp:snow-monkey-blocks/section-side-heading {"backgroundColor":"#d4f0e6","backgroundHorizontalPosition":60,"backgroundTexture":"dots2","backgroundTextureOpacity":0.20000000000000001,"backgroundTextureUrl":"http://snow-monkey-basics.local/wp-content/plugins/snow-monkey-blocks/dist/blocks/section/img/dots2.png"} -->
 <div class="wp-block-snow-monkey-blocks-section-side-heading smb-section smb-section-side-heading smb-section--fit" style="--smb-section--background-color:#d4f0e6;--smb-section--background-transform:translate(60%, 0%);--smb-section--background-texture-image:url(http://snow-monkey-basics.local/wp-content/plugins/snow-monkey-blocks/dist/blocks/section/img/dots2.png);--smb-section--background-texture-opacity:0.2"><div class="smb-section__fixed-background"><div class="smb-section__background"><div class="smb-section__background__texture"></div></div></div><div class="smb-section__inner"><div class="c-container"><div class="smb-section__contents-wrapper"><div class="c-row c-row--md-margin"><div class="c-row__col c-row__col--1-1 c-row__col--md-1-3"><div class="smb-section__header smb-section-side-heading__header"><div class="smb-section__subtitle smb-section-side-heading__subtitle"><span style="color: #beded3" class="sme-text-color">Sellinging Support</span></div><h2 class="smb-section__title smb-section-side-heading__title">不動産の売却サポート</h2><div class="smb-section__lede-wrapper smb-section-side-heading__lede-wrapper"><div class="smb-section__lede smb-section-side-heading__lede">不動産の売却は、タイミングや価格設定、買主とのやり取りなど不安がつきもの。野猿不動産では、無料査定から売却戦略のご提案、契約・引き渡しまで、一つひとつ丁寧にサポートいたします。安心してお任せいただける体制を整えています。</div></div></div></div><div class="c-row__col c-row__col--1-1 c-row__col--md-2-3"><div class="smb-section__body smb-section-side-heading__body"><!-- wp:snow-monkey-blocks/items -->
 <div class="wp-block-snow-monkey-blocks-items smb-items"><div class="c-row c-row--margin" data-columns="1" data-md-columns="1" data-lg-columns="2"><!-- wp:snow-monkey-blocks/items-item-standard {"displayImage":true,"imageID":188} -->
-<div class="wp-block-snow-monkey-blocks-items-item-standard c-row__col"><div class="smb-items__item"><div class="smb-items__item__figure"><img src="https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-service-03.jpg" alt="" width="2304" height="1792" class="wp-image-188"/></div><div class="smb-items__item__body"><div class="smb-items__item__title">無料査定と売却プランのご提案</div></div></div></div>
+<div class="wp-block-snow-monkey-blocks-items-item-standard c-row__col"><div class="smb-items__item"><div class="smb-items__item__figure"><img src="https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/snow-monkey-basics-service-03.jpg" alt="" width="2304" height="1792" class="wp-image-188"/></div><div class="smb-items__item__body"><div class="smb-items__item__title">無料査定と売却プランのご提案</div></div></div></div>
 <!-- /wp:snow-monkey-blocks/items-item-standard -->
 
 <!-- wp:snow-monkey-blocks/items-item-standard {"displayImage":true,"imageID":189} -->
-<div class="wp-block-snow-monkey-blocks-items-item-standard c-row__col"><div class="smb-items__item"><div class="smb-items__item__figure"><img src="https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-service-04.jpg" alt="" width="2304" height="1792" class="wp-image-189"/></div><div class="smb-items__item__body"><div class="smb-items__item__title">売却後のサポート</div></div></div></div>
+<div class="wp-block-snow-monkey-blocks-items-item-standard c-row__col"><div class="smb-items__item"><div class="smb-items__item__figure"><img src="https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/snow-monkey-basics-service-04.jpg" alt="" width="2304" height="1792" class="wp-image-189"/></div><div class="smb-items__item__body"><div class="smb-items__item__title">売却後のサポート</div></div></div></div>
 <!-- /wp:snow-monkey-blocks/items-item-standard --></div></div>
 <!-- /wp:snow-monkey-blocks/items --></div></div></div></div></div></div></div>
 <!-- /wp:snow-monkey-blocks/section-side-heading -->
@@ -4985,11 +4985,11 @@
 <!-- wp:snow-monkey-blocks/section-side-heading {"backgroundColor":"#feedbe","backgroundHorizontalPosition":60,"backgroundTexture":"dots2","backgroundTextureOpacity":0.20000000000000001,"backgroundTextureUrl":"http://snow-monkey-basics.local/wp-content/plugins/snow-monkey-blocks/dist/blocks/section/img/dots2.png"} -->
 <div class="wp-block-snow-monkey-blocks-section-side-heading smb-section smb-section-side-heading smb-section--fit" style="--smb-section--background-color:#feedbe;--smb-section--background-transform:translate(60%, 0%);--smb-section--background-texture-image:url(http://snow-monkey-basics.local/wp-content/plugins/snow-monkey-blocks/dist/blocks/section/img/dots2.png);--smb-section--background-texture-opacity:0.2"><div class="smb-section__fixed-background"><div class="smb-section__background"><div class="smb-section__background__texture"></div></div></div><div class="smb-section__inner"><div class="c-container"><div class="smb-section__contents-wrapper"><div class="c-row c-row--md-margin"><div class="c-row__col c-row__col--1-1 c-row__col--md-1-3"><div class="smb-section__header smb-section-side-heading__header"><div class="smb-section__subtitle smb-section-side-heading__subtitle"><span style="color: #e7dbba" class="sme-text-color">Renovation &amp; Remodeling</span></div><h2 class="smb-section__title smb-section-side-heading__title">リフォーム・リノベーション</h2><div class="smb-section__lede-wrapper smb-section-side-heading__lede-wrapper"><div class="smb-section__lede smb-section-side-heading__lede">暮らし方に合わせて、今のお住まいをもっと快適に。野猿不動産では、間取り変更や水回りの刷新などのリフォームから、空間全体を生まれ変わらせるリノベーションまで幅広く対応しています。理想の住まいづくりを、ワンストップでサポートします。</div></div></div></div><div class="c-row__col c-row__col--1-1 c-row__col--md-2-3"><div class="smb-section__body smb-section-side-heading__body"><!-- wp:snow-monkey-blocks/items -->
 <div class="wp-block-snow-monkey-blocks-items smb-items"><div class="c-row c-row--margin" data-columns="1" data-md-columns="1" data-lg-columns="2"><!-- wp:snow-monkey-blocks/items-item-standard {"displayImage":true,"imageID":190} -->
-<div class="wp-block-snow-monkey-blocks-items-item-standard c-row__col"><div class="smb-items__item"><div class="smb-items__item__figure"><img src="https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-service-05.jpg" alt="" width="2304" height="1792" class="wp-image-190"/></div><div class="smb-items__item__body"><div class="smb-items__item__title">理想の空間づくりをトータルプロデュース</div></div></div></div>
+<div class="wp-block-snow-monkey-blocks-items-item-standard c-row__col"><div class="smb-items__item"><div class="smb-items__item__figure"><img src="https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/snow-monkey-basics-service-05.jpg" alt="" width="2304" height="1792" class="wp-image-190"/></div><div class="smb-items__item__body"><div class="smb-items__item__title">理想の空間づくりをトータルプロデュース</div></div></div></div>
 <!-- /wp:snow-monkey-blocks/items-item-standard -->
 
 <!-- wp:snow-monkey-blocks/items-item-standard {"displayImage":true,"imageID":191} -->
-<div class="wp-block-snow-monkey-blocks-items-item-standard c-row__col"><div class="smb-items__item"><div class="smb-items__item__figure"><img src="https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-service-06.jpg" alt="" width="2304" height="1792" class="wp-image-191"/></div><div class="smb-items__item__body"><div class="smb-items__item__title">バリアフリーや省エネにも対応</div></div></div></div>
+<div class="wp-block-snow-monkey-blocks-items-item-standard c-row__col"><div class="smb-items__item"><div class="smb-items__item__figure"><img src="https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/snow-monkey-basics-service-06.jpg" alt="" width="2304" height="1792" class="wp-image-191"/></div><div class="smb-items__item__body"><div class="smb-items__item__title">バリアフリーや省エネにも対応</div></div></div></div>
 <!-- /wp:snow-monkey-blocks/items-item-standard --></div></div>
 <!-- /wp:snow-monkey-blocks/items --></div></div></div></div></div></div></div>
 <!-- /wp:snow-monkey-blocks/section-side-heading --></div>
@@ -5015,7 +5015,7 @@
 <!-- /wp:snow-monkey-blocks/section -->
 
 <!-- wp:snow-monkey-blocks/section-with-bgimage {"lgImageID":1027,"lgImageMediaType":"image","maskColor":"var(\u002d\u002daccent-color)","maskOpacity":0.20000000000000001,"textColor":"var(\u002d\u002d_color-white)","titleTagName":"none","align":"full"} -->
-<div class="wp-block-snow-monkey-blocks-section-with-bgimage alignfull smb-section smb-section-with-bgimage smb-section--fit" style="--smb-section--color:var(--_color-white);--smb-section-with-bgimage--mask-color:var(--accent-color);--smb-section-with-bgimage--mask-opacity:0.2"><div class="smb-section-with-bgimage__bgimage smb-section-with-bgimage__bgimage--lg"><div class="smb-section-with-bgimage__mask"></div><img src="https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-basics-demo-data/main/images/snow-monkey-basics-property-thumbnail-05.jpg" alt="" width="2304" height="1792" class="wp-image-1027"/></div><div class="smb-section__inner"><div class="c-container"><div class="smb-section__contents-wrapper"><div class="smb-section__body"><!-- wp:heading {"textAlign":"center","className":"is-style-plain"} -->
+<div class="wp-block-snow-monkey-blocks-section-with-bgimage alignfull smb-section smb-section-with-bgimage smb-section--fit" style="--smb-section--color:var(--_color-white);--smb-section-with-bgimage--mask-color:var(--accent-color);--smb-section-with-bgimage--mask-opacity:0.2"><div class="smb-section-with-bgimage__bgimage smb-section-with-bgimage__bgimage--lg"><div class="smb-section-with-bgimage__mask"></div><img src="https://raw.githubusercontent.com/Olein-jp/my-udemy-snow-monkey-demo-data/main/images/snow-monkey-basics-property-thumbnail-05.jpg" alt="" width="2304" height="1792" class="wp-image-1027"/></div><div class="smb-section__inner"><div class="c-container"><div class="smb-section__contents-wrapper"><div class="smb-section__body"><!-- wp:heading {"textAlign":"center","className":"is-style-plain"} -->
 <h2 class="wp-block-heading has-text-align-center is-style-plain">ご相談はいつでもお気軽に</h2>
 <!-- /wp:heading -->
 
